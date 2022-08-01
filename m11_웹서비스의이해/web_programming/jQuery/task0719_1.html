@@ -1,0 +1,83 @@
+<!-- p419/ 8개 사례 작성하여 출력-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.object1').css({
+                background: 'yellow',
+            });
+            $('.object2').css({
+                background: 'skyblue'
+            })
+            // 클래스에만 prepend/append 가 됨?
+
+            let $prependObj = $('<h3>이것은 대상 앞부분에 붙일 객체</h3>')
+                .css({
+                    color: 'red'
+                });
+
+            let $appendObj = $('<h3>이것은 대상 뒷부분에 붙일 객체</h3>')
+                .css({
+                    color: 'red'
+                });
+            
+            let $beforeObj = $('<p>이것은 대상 앞쪽에 오는 객체</p>')
+                .css({
+                    color: 'pink'
+                });
+
+            let $afterObj = $('<p>이것은 대상의 뒤쪽에 오는 객체</p>')
+                .css({
+                    color: 'pink'
+                });
+
+            $beforeObj.insertBefore('.object1');
+            $prependObj.prependTo('.object1');
+            $appendObj.appendTo('.object1');
+            $afterObj.insertAfter('.object1');
+
+            //안타깝게도 위의 문서 객체들이 재사용이 안됨
+            let $prependObj2 = $('<h3>이것도 대상 앞부분에 붙일 객체</h3>')
+                .css({
+                    color: 'red'
+                });
+
+            let $appendObj2 = $('<h3>이것도 대상 뒷부분에 붙일 객체</h3>')
+                .css({
+                    color: 'red'
+                });
+            
+            let $beforeObj2 = $('<p>이것도 대상 앞쪽에 오는 객체</p>')
+                .css({
+                    color: 'pink'
+                });
+
+            let $afterObj2 = $('<p>이것도 대상의 뒤쪽에 오는 객체</p>')
+                .css({
+                    color: 'pink'
+                });
+            
+            $('.object2').prepend($prependObj2);
+            $('.object2').append($appendObj2);
+            $('.object2').before($beforeObj2);
+            $('.object2').after($afterObj2);
+        });
+    </script>
+
+</head>
+<body>
+    <div class="object1">
+        <h1>이것은 대상</h1>
+    </div>
+    <br>
+    <div class="object2">
+        <h1>이것도 대상</h1>
+    </div>
+</body>
+</html>
