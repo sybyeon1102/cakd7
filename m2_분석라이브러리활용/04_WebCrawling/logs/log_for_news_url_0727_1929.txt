@@ -1,0 +1,125 @@
+***** for page : 1
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=1
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 블록체인법학회, '특정금융정보법 주해' 발간
+********** href : https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=179350
+********** title : 법률 전문가 모인 블록체인법학회, '특금법 주해서' 발간...NFT로도 발행
+********** href : https://www.techm.kr/news/articleView.html?idxno=98219
+********** title : 제주음식점 방문자 잇따라 확진...백신접종 순조롭게 진행
+********** href : https://news.bbsi.co.kr/news/articleView.html?idxno=3024078
+********** title : 인재양성 산실 충북학사 '이름값'
+********** href : https://www.inews365.com/news/article.html?no=652993
+********** title : 서천군 마산면, '물버들 마을음악회' 성료
+********** href : http://www.chungnamilbo.com/news/articleView.html?idxno=507057
+********** title : 자연 속에서 자연을 배운다… 4월엔 도심 속 자연왕국 대구녹색학습원으로 떠나자!
+********** href : https://news.imaeil.com/page/view/2022040500140816774
+********** title : 청소년 대학생들 지속가능사회를 말하다
+********** href : http://www.ilemonde.com/news/articleView.html?idxno=9003
+********** title : 청소년들, '우리 손으로 만드는 지속가능사회'로 열띤 토론 벌여
+********** href : http://www.kyosu.net/news/articleView.html?idxno=42465
+********** title : ‘우리 손으로 사회를 바꿔가요!’ 청소년들이 말하는 지속가능사회
+********** href : http://www.breaknews.com/sub_read.html?uid=595274§ion=sc2
+********** title : (사회책임)"우리 손으로 사회를 바꿔가요!"…청소년들 지속가능사회를 말하다
+********** href : http://www.newstomato.com/ReadNews.aspx?no=841037
+***** row : 10
+***** for page : 2
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=11
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [NIE 교육] 연무고 학생들 "제가 기자가 된 것 같아요"
+********** href : http://www.joongdo.co.kr/web/view.php?key=20210509010001429
+********** title : 유린보은동산, 사회복지시설 인증
+********** href : http://www.wonnews.co.kr/news/articleView.html?idxno=301472
+********** title : 제9회 변시 합격자 '1768명' 발표… 응시자 대비 합격률 '53.32%'
+********** href : https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=161147
+********** title : 청주어린이큰잔치 사생대회 수상자 발표
+********** href : http://www.jbnews.com/news/articleView.html?idxno=1246944
+********** title : [똑! 기자 꿀! 정보] 재미로 하다 보면 다이어트는 덤! ‘이색 운동’
+********** href : http://news.kbs.co.kr/news/view.do?ncd=3652462&ref=A
+********** title : "마음 다잡고 최선을, 포항 힘내라"… 사상 첫 '연기 수능' 시작
+********** href : http://www.nocutnews.co.kr/news/4881636
+********** title : 제4회 미래도시그리기대회 수상자 명단
+********** href : http://www.kihoilbo.co.kr/?mod=news&act=articleView&idxno=629165
+********** title : 나를 제대로 알고 ‘꿈’ 찾는다
+********** href : http://www.idaegu.co.kr/news.php?code=ch05&mode=view&num=164724
+********** title : [인사] 제주시 승진심사 대상자 명단
+********** href : http://www.jejudomin.co.kr/news/articleView.html?idxno=57830
+********** title : [인사] 제주시 2015년도 상반기 승진심사 대상자
+********** href : http://www.jejusori.net/?mod=news&act=articleView&idxno=156979
+***** row : 10
+***** for page : 3
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=21
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 제주시 6급이하 공무원 승진심사 대상자 명단
+********** href : http://www.jemin.com/news/articleView.html?idxno=352334
+********** title : 제주시 정기인사 6급 이하 승진후보자 명단 발표
+********** href : http://www.headlinejeju.co.kr/news/articleView.html?idxno=230363
+********** title : 제주시 승진심사 대상자 발표…8급 30명 '승진'
+********** href : http://www.jejudomin.co.kr/news/articleView.html?idxno=53942
+********** title : 제주시 정기인사 승진심사 대상자 명단 발표
+********** href : http://www.headlinejeju.co.kr/news/articleView.html?idxno=217691
+********** title : 변서은 과거 민주당 홍보모델 활동…네티즌들 "정치적 의도"vs"특정당과 무관"
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=839851
+********** title : 변서은, 朴대통령 겨냥 "몸이나 팔아" 막말…누구인가 봤더니 新베이글녀?
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=839753
+********** title : We♥프로젝트 참가자 명단 17 / 한라초
+********** href : http://www.jemin.com/news/articleView.html?idxno=309246
+********** title : [인사] 제주시 인사예고
+********** href : http://www.jejusori.net/news/articleView.html?idxno=94386
+********** title : 제주시 자치행정국 김영옥, 주민생활지원국 장명규..5일 인사예고
+********** href : http://www.jejusori.net/news/articleView.html?idxno=85616
+********** title : 제주시 하위직 78명 승진.전보.신규임용 인사발령
+********** href : http://www.jejusori.net/news/articleView.html?idxno=78037
+***** row : 10
+***** for page : 4
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=31
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 변서은 과거 민주당 홍보모델 활동…네티즌들 "정치적 의도"vs"특정당과 무관"
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=839851
+********** title : 변서은, 朴대통령 겨냥 "몸이나 팔아" 막말…누구인가 봤더니 新베이글녀?
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=839753
+********** title : We♥프로젝트 참가자 명단 17 / 한라초
+********** href : http://www.jemin.com/news/articleView.html?idxno=309246
+********** title : [인사] 제주시 인사예고
+********** href : http://www.jejusori.net/news/articleView.html?idxno=94386
+********** title : 제주시 자치행정국 김영옥, 주민생활지원국 장명규..5일 인사예고
+********** href : http://www.jejusori.net/news/articleView.html?idxno=85616
+********** title : 제주시 하위직 78명 승진.전보.신규임용 인사발령
+********** href : http://www.jejusori.net/news/articleView.html?idxno=78037
+********** title : 투병 아들 돌보는 최석호씨 부부에게 성금 960만원 답지
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=10034&yy=2008
+********** title : (이웃사랑)재중동포 이명자씨에 745만3천원 전달
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=8903&yy=2008
+********** title : 예진이 간병 임상철씨 부부 성금 1069만원 답지
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=4757&yy=2008
+********** title : [커버스토리] 응원석에서 만난 엄마들
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=24594&yy=2006
+***** row : 10
+***** for page : 5
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=41
+********** status_code : 200
+********** len(tagA) : 6
+********** title : 제주시 자치행정국 김영옥, 주민생활지원국 장명규..5일 인사예고
+********** href : http://www.jejusori.net/news/articleView.html?idxno=85616
+********** title : 제주시 하위직 78명 승진.전보.신규임용 인사발령
+********** href : http://www.jejusori.net/news/articleView.html?idxno=78037
+********** title : 투병 아들 돌보는 최석호씨 부부에게 성금 960만원 답지
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=10034&yy=2008
+********** title : (이웃사랑)재중동포 이명자씨에 745만3천원 전달
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=8903&yy=2008
+********** title : 예진이 간병 임상철씨 부부 성금 1069만원 답지
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=4757&yy=2008
+********** title : [커버스토리] 응원석에서 만난 엄마들
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=24594&yy=2006
+***** row : 6
+***** for page : 6
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=변서연&start=51
+********** status_code : 200
+********** len(tagA) : 1
+********** title : [커버스토리] 응원석에서 만난 엄마들
+********** href : http://www.imaeil.com/sub_news/sub_news_view.php?news_id=24594&yy=2006
+***** row : 1
+***** get only 47 rows.

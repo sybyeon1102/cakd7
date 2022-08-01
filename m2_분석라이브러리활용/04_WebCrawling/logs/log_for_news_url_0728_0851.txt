@@ -1,0 +1,1375 @@
+***** for page : 1
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=1
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [소년중앙] 친구를 위해서라면 우주 모험도 할 수 있어 ‘극장판 도라에몽: 진구의 우주소전쟁’
+********** href : https://www.joongang.co.kr/article/25089380
+********** title : 미니언즈·뽀로로·도라에몽…여름방학 극장가, 애니메이션이 쏟아진다
+********** href : https://www.donga.com/news/article/all/20220720/114547762/1
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 렌티큘러 포토카드 등 1주차 특전
+********** href : http://www.slist.kr/news/articleView.html?idxno=371804
+********** title : 코난·뽀로로·미니언·도라에몽…여름에 다 본다
+********** href : http://www.newsis.com/view/?id=NISX20220712_0001939692&cID=10601&pID=10600
+********** title : ‘코난’ ‘미니언즈’ ‘도라에몽’…여름방학 극장가 애니 풍년
+********** href : https://news.kmib.co.kr/article/view.asp?arcid=0017265641&code=61181511&cp=nv
+********** title : ‘도라에몽: 진구의 우주소전쟁’ 8월 개봉 확정…메인 포스터 공개
+********** href : https://isplus.joins.com/2022/07/04/enter/entertainment/20220704122835815.html
+********** title : 돌아온 미니언즈-뽀로로… 어린이 관객 ‘극장 복귀’ 유혹하는 여름
+********** href : https://www.donga.com/news/article/all/20220721/114558316/1
+********** title : ‘도라에몽: 진구의 우주소전쟁’ 8월 개봉 확정... 2차 스틸 9종 공개
+********** href : https://www.bntnews.co.kr/article/view/bnt202207140007
+********** title : 여름방학 동심 사냥 승자는?…극장가 애니메이션 대전
+********** href : http://www.busan.com/view/busan/view.php?code=2022071911424750325
+********** title : 애니메이션의 조용한 습격
+********** href : https://sports.donga.com/article/all/20220714/114459026/3
+***** row : 10
+***** for page : 2
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=11
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘도라에몽 진구의 목장이야기 대자연의 왕국과 모두의 집’ 2022년 발매
+********** href : https://www.gamechosun.co.kr/webzine/article/view.php?no=186095
+********** title : 여름방학 동심 잡아라!… 극장가 ‘애니메이션 대전’
+********** href : http://www.segye.com/content/html/2022/07/14/20220714518282.html?OutUrl=naver
+********** title : '극장판 도라에몽: 진구의 우주소전쟁', 8월 개봉…국내 미공개 레전드 리메이크
+********** href : https://www.spotvnews.co.kr/news/articleView.html?idxno=535064
+********** title : 오피셜히게단디즘, '극장판 도라에몽: 진구의 우주소전쟁' OST 참여
+********** href : http://www.slist.kr/news/articleView.html?idxno=370313
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 8월 개봉...여름방학 극장가 노린다
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=530237
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 8월 3일 개봉 "기다려줘서 고마워"
+********** href : http://www.slist.kr/news/articleView.html?idxno=369632
+********** title : 유니클로, ‘JOIN: 옷의 힘’ 글로벌 캠페인 출범 깨끗한 해양환경 만들기 참여
+********** href : http://www.fashionbiz.co.kr/TN/?cate=2&recom=2&idx=193385
+********** title : Nintendo Switch 신작 소프트웨어 정보 공개
+********** href : http://www.gameshot.net/common/con_view.php?code=GA62bbd8f6941e4
+********** title : 애니원, 개국 20주년 맞아... 도라에몽·빨간머리앤 등 방송
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2022022318218063658
+********** title : 손오공, 짱구는 못말려·도라에몽 블록 완구 출시
+********** href : https://sports.donga.com/article/all/20220125/111430108/1
+***** row : 10
+***** for page : 3
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=21
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 손오공, 애니 '짱구는 못말려'·'도라에몽' 블록완구 출시
+********** href : http://www.slist.kr/news/articleView.html?idxno=327524
+********** title : [유통 이슈] 손오공, 애니메이션 '짱구는 못말려'와 '도라에몽' 블록 신제품 출시 外
+********** href : http://www.lawissue.co.kr/view.php?ud=202201210831532054204ead0791_12
+********** title : '도라에몽' 속 캐릭터들이 현실세계에 오면 '이런 얼굴'이다 (영상)
+********** href : https://www.insight.co.kr/news/375760
+********** title : [콘솔] 페르소나5 이식과 돌아온 원숭이섬, 닌텐도 다이렉트 미니
+********** href : http://www.inven.co.kr/webzine/news/?news=273466&site=console
+********** title : 만화책 모으던 어린 시절부터 ‘도라에몽’ 감독 꿈꿨죠
+********** href : https://www.chosun.com/national/people/2021/10/22/YFCGNORO3VHM7GHUV776TX6VUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+********** title : '페르소나'부터 '니어:오토마타'까지 닌텐도 스위치용 신작 라인업 공개
+********** href : https://www.fomos.kr/redirect/news_view?news_cate_id=7&entry_id=112042
+********** title : [리뷰]게임으로 즐기는 '극장판 도라에몽: 진구의 신공룡' 아크시스템웍스 아시아지점 '도라에몽 진구의 신공룡'
+********** href : http://gamefocus.co.kr/detail.php?number=121275
+********** title : 아이 선물에 적합, 극장판 기반 '도라에몽 진구의 신공룡'(NS)
+********** href : http://www.gameshot.net/common/con_view.php?code=GA612320a8e2f3e
+********** title : '극장판 도라에몽: 진구의 신공룡' 누적 관객 수 4만 명 돌파, 개봉후 박스오피스 TOP5 등극
+********** href : http://gamefocus.co.kr/detail.php?number=120396
+********** title : 도라에몽 IP '도라에몽 진구의 신공룡', 한국어판 오늘 출시
+********** href : https://www.thisisgame.com/webzine/game/nboard/225/?n=130310
+***** row : 10
+***** for page : 4
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=31
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [심우진의 SR컬처] 인류와 공룡의 우정 담은 어드벤처…'극장판 도라에몽: 진구의 신공룡' 리뷰
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=97718
+********** title : 극장판 '도라에몽', 닌텐도 스위치부터 굿즈까지 BIG이벤트
+********** href : http://www.slist.kr/news/articleView.html?idxno=270752
+********** title : 3040 추억 소환…풀하우스·세일러문·슬램덩크·도라에몽 인기
+********** href : http://www.newsis.com/view/?id=NISX20220425_0001846352&cID=10701&pID=10700
+********** title : 쌍둥이 공룡 아빠가 된 진구…50주년 기념 극장판 '도라에몽'
+********** href : http://yna.kr/AKR20210725031900005?did=1195m
+********** title : ‘극장판 도라에몽: 진구의 신공룡’ 8월 5일 개봉…2차 예고편 공개
+********** href : http://www.nspna.com/news/?mode=view&newsid=516541
+********** title : 도라에몽 진구의 신공룡, 한국어판 8월 5일 출시
+********** href : http://www.gameshot.net/common/con_view.php?code=GA60f90289bee7f
+********** title : 여름방학, 레전드 애니메이션 영화 대격돌 | #하이큐!! 땅 VS 하늘 #극장판 포켓몬스터: 정글의 아이, 코코 #극장판 도라에몽: 진구의 신공룡
+********** href : http://woman.chosun.com/client/news/viw.asp?cate=C04&mcate=M1001&nNewsNumb=20210778566
+********** title : '극장판 도라에몽: 진구의 신공룡', 사랑스러운 쌍둥이 공룡 등장 예고
+********** href : http://www.slist.kr/news/articleView.html?idxno=268863
+********** title : 기무라 타쿠야, 극장판 '도라에몽' 더빙 "어릴 때부터 팬"
+********** href : http://www.slist.kr/news/articleView.html?idxno=267794
+********** title : ‘극장판 도라에몽:진구의 신공룡’, 6600만 년 전 백악기로 출발
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202107131727471491&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news
+***** row : 10
+***** for page : 5
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=41
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 장판 도라에몽: 진구의 신공룡' "안녕! 새로운 진구" 시선강탈 1차 포스터 공개!
+********** href : http://www.cine21.com/news/issue/view/?mag_id=1324&utm_source=naver&utm_medium=news
+********** title : '비주얼+맛' 다 갖춰 덕후들 '텅장'되게 만들 도라에몽 맥날 세트 나왔다
+********** href : https://www.insight.co.kr/news/348127
+********** title : 도라에몽 주인공 소원 이뤘네…공룡 학명이 된 ‘노비타’
+********** href : https://www.khan.co.kr/world/japan/article/202107091223001
+********** title : 백악기 시대로 모험 떠난 영화 '극장판 도라에몽: 진구의 신공룡' 오는 8월 개봉
+********** href : https://www.insight.co.kr/news/347687
+********** title : 교수님이 도라에몽 팬…中서 공룡 화석에 주인공 '노진구' 명명
+********** href : https://www.news1.kr/articles/?4365226
+********** title : 도라에몽 50주년 기념대작 ‘진구의 신공룡’ 8월 국내 개봉
+********** href : https://sports.donga.com/article/all/20210705/107790671/1
+********** title : <신제품ㆍ신기술>손오공, 도라에몽 블록 시리즈 출시
+********** href : http://news.heraldcorp.com/view.php?ud=20210622000965
+********** title : 손오공 ‘도라에몽’ 블록완구 출시
+********** href : http://www.lawissue.co.kr/view.php?ud=202106220801347472204ead0791_12
+********** title : [노컷 리뷰]소중한 사람 일깨우는 도라에몽의 시간여행
+********** href : https://www.nocutnews.co.kr/news/5561213
+********** title : [김중기의 필름통] 새 영화 '혼자 사는 사람들' '도라에몽:스탠바이미2' '토토리! 우리 둘만의 여름'
+********** href : https://news.imaeil.com/Movie/2021051910584948212
+***** row : 10
+***** for page : 6
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=51
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 영화 '도라에몽: 스탠바이미2' 일본의 SF 만화 <도라에몽>의 두 번째 3D애니메이션
+********** href : http://www.cine21.com/news/view/?mag_id=97748&utm_source=naver&utm_medium=news
+********** title : [리뷰] 도라에몽 50주년 기념으로 한층 커진 타임슬립 어드벤처, 영화 ‘도라에몽: 스탠바이미 2’
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2021/05/18/2021051880175.html
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 역대급 모험 예고편 최초 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=368627
+********** title : 1편보다 나은 2편 없다? '도라에몽'→'킬러의 보디가드', 흥행 시리즈 도전
+********** href : http://www.slist.kr/news/articleView.html?idxno=251903
+********** title : 도라에몽·진구가 라디오에? '스탠바이미 2' 성우진, '오후의 발견' 출연
+********** href : http://www.slist.kr/news/articleView.html?idxno=250509
+********** title : '도라에몽' 팬 주목! '스탠바이미 2' 한정판 굿즈 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=249804
+********** title : '도라에몽: 스탠바이미 2’ 가정의 달에 어울리는 감동 무비, 5월 19일 개봉
+********** href : http://www.mediaus.co.kr/news/articleView.html?idxno=213216
+********** title : 대원미디어, 도라에몽 50주년 기념작+지브리 신작 개봉
+********** href : https://www.sedaily.com/NewsView/22M9761IAP
+********** title : 동심에 스며들다! '푸드 몬스터'→도라에몽', 어린이 위한 5월 가족 애니
+********** href : http://www.slist.kr/news/articleView.html?idxno=248450
+********** title : '도라에몽: 스탠바이미 2' 감독, 비하인드 공개 "가족 생각할 수 있길"
+********** href : http://www.slist.kr/news/articleView.html?idxno=248153
+***** row : 10
+***** for page : 7
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=61
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘도라에몽 : 스탠바이미2’ 진구♥이슬이, 결혼합니다
+********** href : https://sports.donga.com/article/all/20210419/106473645/1
+********** title : 일본 정부의 후쿠시마 오염수 방류 예언(?)한 도라에몽이 한 '사이다 발언'
+********** href : https://www.insight.co.kr/news/334150
+********** title : '도라에몽' '굴뚝마을 푸펠'…5월, 극장가 '만화영화' 열풍
+********** href : http://www.ajunews.com/view/20210513140421767
+********** title : 르크루제 & 도라에몽 콜라보레이션 출시
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0015688360&code=61141611&cp=nv
+********** title : 도라에몽이 유니클로 글로벌 앰버서더에?
+********** href : http://news.mk.co.kr/newsRead.php?no=295736&year=2021
+********** title : 르크루제·도라에몽, 콜라보레이션으로 컬렉션 출시
+********** href : https://www.donga.com/news/article/all/20210329/106130082/1
+********** title : 포켓몬, 키티, 도라에몽... 그런 도시락은 아니지만
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002830534&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 어린이 관객 잡아라…코로나 뚫고 오는 애니메이션
+********** href : http://www.yonhapnewstv.co.kr/MYH20220721001700641/?input=1825m
+********** title : [월드리포트] '도라에몽' 부시장이 열어본 상하이 주민 냉장고에는…
+********** href : https://news.sbs.co.kr/news/endPage.do?news_id=N1006724323&plink=ORI&cooper=NAVER
+********** title : 토토로&도라에몽, 하이패션에 나타나다
+********** href : http://bntnews.hankyung.com/apps/news?popup=0&nid=02&c1=02&c2=02&c3=00&nkey=202101280943393&mode=sub_view
+***** row : 10
+***** for page : 8
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=71
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '도라에몽 구찌'ㆍ'헬로키티 발렌시아가'...MZ는 만화 캐릭터 컬래버 명품을 좋아해
+********** href : https://www.etoday.co.kr/news/view/1989872
+********** title : [카드뉴스] 통통한 '도라에몽 손', 얇아지는 법
+********** href : http://www.hidoc.co.kr/healthstory/news/C0000587202
+********** title : 항상 도라에몽 좋아한다던 심형탁, 이번에 결국 포기하게 된 이유
+********** href : https://www.wikitree.co.kr/articles/607854
+********** title : 최애 '도라에몽'이 명품 구찌랑 콜라보하자 덕질 10년 만에 포기 선언한 심형탁
+********** href : https://www.insight.co.kr/news/319577
+********** title : 낡고 해진 '애착인형' 떠나보내주려던 누리꾼이 공개한 '도라에몽' 부활 사진
+********** href : https://www.insight.co.kr/news/380079
+********** title : 日 '도라에몽' 신작 게임…내년 3월 5일 공개
+********** href : https://www.theguru.co.kr/news/article.html?no=16808
+********** title : 日, 코로나19 속 다시 인기 얻은 <도라에몽>
+********** href : http://kr.people.com.cn/n3/2020/1130/c208059-9793895.html
+********** title : “전 세계 심형탁들 눈물...” 도라에몽 성우 84세 나이로 사망
+********** href : https://www.wikitree.co.kr/articles/578671
+********** title : 도라에몽 일본 성우, 84세 나이로 사망
+********** href : https://www.insight.co.kr/news/306834
+********** title : [S포토] 이병헌, '제주도 도라에몽 동석' (브로커)
+********** href : http://www.stardailynews.co.kr/news/articleView.html?idxno=323288
+***** row : 10
+***** for page : 9
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=81
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 낸시랭 '버블코코' 거울놀이…미키마우스~도라에몽까지 신바람
+********** href : http://www.newsis.com/view/?id=NISX20220602_0001895013&cID=10701&pID=10700
+********** title : '비주얼+실용성' 다 갖춰 덕후들 소장욕구 일으키는 '도라에몽' 팝콘통
+********** href : https://www.insight.co.kr/news/305539
+********** title : 심형탁, 10개월 만에 SNS 재개…도라에몽 껴안고 '찐미소'
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202201201516423707&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news
+********** title : 소유욕 자극하는 비주얼, 앤커 ‘도라에몽 에디션’
+********** href : http://www.earlyadopter.co.kr/144024
+********** title : 침대 맡에 두고 캔맥주 하나씩 꺼내 마시기 딱인 '집순이 전용' 도라에몽 미니 냉장고
+********** href : https://www.insight.co.kr/news/301454
+********** title : 스위치에서 PS4로 이식, 도라에몽 진구의 목장이야기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5f2b7b07b0edc
+********** title : BNEK PlayStation4 플랫폼 '도라에몽 진구의 목장이야기' 정식 발매
+********** href : http://gamefocus.co.kr/detail.php?number=107786
+********** title : 반다이남코, ‘도라에몽 진구의 목장이야기’ 플레이스테이션4 30일 발매
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=167170
+********** title : 도라에몽의 특별한 이야기 <신 도라에몽 스페셜 3기> 애니원 첫 방송!
+********** href : https://view.asiae.co.kr/article/2020072317112177691
+********** title : 지하철 창문에 저게 뭐야? 中 대륙 홀린 LG…"도라에몽이 만든 듯"
+********** href : http://news.mt.co.kr/mtview.php?no=2022030316255720145
+***** row : 10
+***** for page : 10
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=91
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘도라에몽 진구의 목장이야기’ 플레이스테이션4 패키지 선주문 판매 15일 시작
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=166630
+********** title : [SR문화] '극장판 도라에몽: 진구의 우주소전쟁', 8월 3일 개봉
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=117336
+********** title : 원작 애니 이상의 감동과 재미, 도라에몽 진구의 달 탐사기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5eba6d3831008
+********** title : "도라에몽의 '발명품' 중 하나를 가질 수 있다면 당신은 무엇을 선택하실건가요?"
+********** href : https://www.insight.co.kr/news/281388
+********** title : PS4 도라에몽 진구의 목장이야기, 7월 30일 발매 결정
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5ea1353d3416d
+********** title : 닌텐도 스위치 '도라에몽 진구의 달 탐사기' 한국어판 오늘 출시
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5e8ee18b22644
+********** title : UnicodeEncodeError
+********** href : http://www.osen.co.kr/article/G1111734210
+********** title : 닌텐도스위치, '도라에몽 진구의 달 탐사기' 한국어판 4월9일 출시
+********** href : http://www.thisisgame.com/webzine/game/nboard/225/?n=103065
+********** title : "22세기 미래까지"…만화 '100년 도라에몽' 日 28일부터 예약
+********** href : http://www.kyeonggi.com/news/articleView.html?idxno=2259606
+********** title : ‘마이웨이’ 이숙영, 딸 채민지는 성우 겸 가수…도라에몽 목소리 ‘모전여전’
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=1868809
+***** row : 10
+***** for page : 11
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=101
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 손오공, 블록 '도라에몽' 출시…점보 사이즈, 토이저러스 단독 선봬
+********** href : https://www.news1.kr/articles/?4346605
+********** title : [노컷 리뷰]소중한 사람 일깨우는 도라에몽의 시간여행
+********** href : https://www.nocutnews.co.kr/news/5561213
+********** title : [김중기의 필름통] 새 영화 '혼자 사는 사람들' '도라에몽:스탠바이미2' '토토리! 우리 둘만의 여름'
+********** href : https://news.imaeil.com/Movie/2021051910584948212
+********** title : 영화 '도라에몽: 스탠바이미2' 일본의 SF 만화 <도라에몽>의 두 번째 3D애니메이션
+********** href : http://www.cine21.com/news/view/?mag_id=97748&utm_source=naver&utm_medium=news
+********** title : [리뷰] 도라에몽 50주년 기념으로 한층 커진 타임슬립 어드벤처, 영화 ‘도라에몽: 스탠바이미 2’
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2021/05/18/2021051880175.html
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 역대급 모험 예고편 최초 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=368627
+********** title : 1편보다 나은 2편 없다? '도라에몽'→'킬러의 보디가드', 흥행 시리즈 도전
+********** href : http://www.slist.kr/news/articleView.html?idxno=251903
+********** title : 도라에몽·진구가 라디오에? '스탠바이미 2' 성우진, '오후의 발견' 출연
+********** href : http://www.slist.kr/news/articleView.html?idxno=250509
+********** title : '도라에몽' 팬 주목! '스탠바이미 2' 한정판 굿즈 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=249804
+********** title : '도라에몽: 스탠바이미 2’ 가정의 달에 어울리는 감동 무비, 5월 19일 개봉
+********** href : http://www.mediaus.co.kr/news/articleView.html?idxno=213216
+***** row : 10
+***** for page : 12
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=111
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [리뷰] 도라에몽 50주년 기념으로 한층 커진 타임슬립 어드벤처, 영화 ‘도라에몽: 스탠바이미 2’
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2021/05/18/2021051880175.html
+********** title : '극장판 도라에몽: 진구의 우주소전쟁' 역대급 모험 예고편 최초 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=368627
+********** title : 1편보다 나은 2편 없다? '도라에몽'→'킬러의 보디가드', 흥행 시리즈 도전
+********** href : http://www.slist.kr/news/articleView.html?idxno=251903
+********** title : 도라에몽·진구가 라디오에? '스탠바이미 2' 성우진, '오후의 발견' 출연
+********** href : http://www.slist.kr/news/articleView.html?idxno=250509
+********** title : '도라에몽' 팬 주목! '스탠바이미 2' 한정판 굿즈 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=249804
+********** title : '도라에몽: 스탠바이미 2’ 가정의 달에 어울리는 감동 무비, 5월 19일 개봉
+********** href : http://www.mediaus.co.kr/news/articleView.html?idxno=213216
+********** title : 대원미디어, 도라에몽 50주년 기념작+지브리 신작 개봉
+********** href : https://www.sedaily.com/NewsView/22M9761IAP
+********** title : 동심에 스며들다! '푸드 몬스터'→도라에몽', 어린이 위한 5월 가족 애니
+********** href : http://www.slist.kr/news/articleView.html?idxno=248450
+********** title : '도라에몽: 스탠바이미 2' 감독, 비하인드 공개 "가족 생각할 수 있길"
+********** href : http://www.slist.kr/news/articleView.html?idxno=248153
+********** title : ‘도라에몽 : 스탠바이미2’ 진구♥이슬이, 결혼합니다
+********** href : https://sports.donga.com/article/all/20210419/106473645/1
+***** row : 10
+***** for page : 13
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=121
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '도라에몽: 스탠바이미 2' 5월 19일 개봉…"진구♥이슬 결혼식에 초대합니다"
+********** href : http://www.xportsnews.com/?ac=article_view&entry_id=1414678
+********** title : 일본 정부의 후쿠시마 오염수 방류 예언(?)한 도라에몽이 한 '사이다 발언'
+********** href : https://www.insight.co.kr/news/334150
+********** title : '도라에몽' '굴뚝마을 푸펠'…5월, 극장가 '만화영화' 열풍
+********** href : http://www.ajunews.com/view/20210513140421767
+********** title : 르크루제 & 도라에몽 콜라보레이션 출시
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0015688360&code=61141611&cp=nv
+********** title : 도라에몽이 유니클로 글로벌 앰버서더에?
+********** href : http://news.mk.co.kr/newsRead.php?no=295736&year=2021
+********** title : 르크루제·도라에몽, 콜라보레이션으로 컬렉션 출시
+********** href : https://www.donga.com/news/article/all/20210329/106130082/1
+********** title : 포켓몬, 키티, 도라에몽... 그런 도시락은 아니지만
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002830534&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 어린이 관객 잡아라…코로나 뚫고 오는 애니메이션
+********** href : http://www.yonhapnewstv.co.kr/MYH20220721001700641/?input=1825m
+********** title : [월드리포트] '도라에몽' 부시장이 열어본 상하이 주민 냉장고에는…
+********** href : https://news.sbs.co.kr/news/endPage.do?news_id=N1006724323&plink=ORI&cooper=NAVER
+********** title : 토토로&도라에몽, 하이패션에 나타나다
+********** href : http://bntnews.hankyung.com/apps/news?popup=0&nid=02&c1=02&c2=02&c3=00&nkey=202101280943393&mode=sub_view
+***** row : 10
+***** for page : 14
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=131
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '도라에몽 구찌'ㆍ'헬로키티 발렌시아가'...MZ는 만화 캐릭터 컬래버 명품을 좋아해
+********** href : https://www.etoday.co.kr/news/view/1989872
+********** title : [카드뉴스] 통통한 '도라에몽 손', 얇아지는 법
+********** href : http://www.hidoc.co.kr/healthstory/news/C0000587202
+********** title : 항상 도라에몽 좋아한다던 심형탁, 이번에 결국 포기하게 된 이유
+********** href : https://www.wikitree.co.kr/articles/607854
+********** title : 최애 '도라에몽'이 명품 구찌랑 콜라보하자 덕질 10년 만에 포기 선언한 심형탁
+********** href : https://www.insight.co.kr/news/319577
+********** title : 낡고 해진 '애착인형' 떠나보내주려던 누리꾼이 공개한 '도라에몽' 부활 사진
+********** href : https://www.insight.co.kr/news/380079
+********** title : 日 '도라에몽' 신작 게임…내년 3월 5일 공개
+********** href : https://www.theguru.co.kr/news/article.html?no=16808
+********** title : 日, 코로나19 속 다시 인기 얻은 <도라에몽>
+********** href : http://kr.people.com.cn/n3/2020/1130/c208059-9793895.html
+********** title : “전 세계 심형탁들 눈물...” 도라에몽 성우 84세 나이로 사망
+********** href : https://www.wikitree.co.kr/articles/578671
+********** title : 도라에몽 일본 성우, 84세 나이로 사망
+********** href : https://www.insight.co.kr/news/306834
+********** title : [S포토] 이병헌, '제주도 도라에몽 동석' (브로커)
+********** href : http://www.stardailynews.co.kr/news/articleView.html?idxno=323288
+***** row : 10
+***** for page : 15
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=141
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 낸시랭 '버블코코' 거울놀이…미키마우스~도라에몽까지 신바람
+********** href : http://www.newsis.com/view/?id=NISX20220602_0001895013&cID=10701&pID=10700
+********** title : '비주얼+실용성' 다 갖춰 덕후들 소장욕구 일으키는 '도라에몽' 팝콘통
+********** href : https://www.insight.co.kr/news/305539
+********** title : 심형탁, 10개월 만에 SNS 재개…도라에몽 껴안고 '찐미소'
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=202201201516423707&ext=na&utm_campaign=naver_news&utm_source=naver&utm_medium=related_news
+********** title : 소유욕 자극하는 비주얼, 앤커 ‘도라에몽 에디션’
+********** href : http://www.earlyadopter.co.kr/144024
+********** title : 침대 맡에 두고 캔맥주 하나씩 꺼내 마시기 딱인 '집순이 전용' 도라에몽 미니 냉장고
+********** href : https://www.insight.co.kr/news/301454
+********** title : 스위치에서 PS4로 이식, 도라에몽 진구의 목장이야기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5f2b7b07b0edc
+********** title : BNEK PlayStation4 플랫폼 '도라에몽 진구의 목장이야기' 정식 발매
+********** href : http://gamefocus.co.kr/detail.php?number=107786
+********** title : 반다이남코, ‘도라에몽 진구의 목장이야기’ 플레이스테이션4 30일 발매
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=167170
+********** title : 도라에몽의 특별한 이야기 <신 도라에몽 스페셜 3기> 애니원 첫 방송!
+********** href : https://view.asiae.co.kr/article/2020072317112177691
+********** title : 지하철 창문에 저게 뭐야? 中 대륙 홀린 LG…"도라에몽이 만든 듯"
+********** href : http://news.mt.co.kr/mtview.php?no=2022030316255720145
+***** row : 10
+***** for page : 16
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=151
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 도라에몽의 특별한 이야기 <신 도라에몽 스페셜 3기> 애니원 첫 방송!
+********** href : https://view.asiae.co.kr/article/2020072317112177691
+********** title : 지하철 창문에 저게 뭐야? 中 대륙 홀린 LG…"도라에몽이 만든 듯"
+********** href : http://news.mt.co.kr/mtview.php?no=2022030316255720145
+********** title : ‘도라에몽 진구의 목장이야기’ 플레이스테이션4 패키지 선주문 판매 15일 시작
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=166630
+********** title : [SR문화] '극장판 도라에몽: 진구의 우주소전쟁', 8월 3일 개봉
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=117336
+********** title : UnicodeEncodeError
+********** href : http://www.slist.kr/news/articleView.html?idxno=366151
+********** title : 원작 애니 이상의 감동과 재미, 도라에몽 진구의 달 탐사기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5eba6d3831008
+********** title : "도라에몽의 '발명품' 중 하나를 가질 수 있다면 당신은 무엇을 선택하실건가요?"
+********** href : https://www.insight.co.kr/news/281388
+********** title : PS4 도라에몽 진구의 목장이야기, 7월 30일 발매 결정
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5ea1353d3416d
+********** title : 닌텐도 스위치 '도라에몽 진구의 달 탐사기' 한국어판 오늘 출시
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5e8ee18b22644
+********** title : UnicodeEncodeError
+********** href : http://www.osen.co.kr/article/G1111734210
+***** row : 10
+***** for page : 17
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=161
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "도라에몽의 '발명품' 중 하나를 가질 수 있다면 당신은 무엇을 선택하실건가요?"
+********** href : https://www.insight.co.kr/news/281388
+********** title : PS4 도라에몽 진구의 목장이야기, 7월 30일 발매 결정
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5ea1353d3416d
+********** title : 닌텐도 스위치 '도라에몽 진구의 달 탐사기' 한국어판 오늘 출시
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5e8ee18b22644
+********** title : UnicodeEncodeError
+********** href : http://www.osen.co.kr/article/G1111734210
+********** title : 닌텐도스위치, '도라에몽 진구의 달 탐사기' 한국어판 4월9일 출시
+********** href : http://www.thisisgame.com/webzine/game/nboard/225/?n=103065
+********** title : "22세기 미래까지"…만화 '100년 도라에몽' 日 28일부터 예약
+********** href : http://www.kyeonggi.com/news/articleView.html?idxno=2259606
+********** title : ‘마이웨이’ 이숙영, 딸 채민지는 성우 겸 가수…도라에몽 목소리 ‘모전여전’
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=1868809
+********** title : 캐릭터 '도라에몽', '아톰' 좋아한다면 가봐야 할 '도쿄 키덜트샵'
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2020/02/12/2020021280193.html
+********** title : '아는 형님' 아스트로 문빈X윤산하, '뿌뿌' 애교→도라에몽 개인기 방출
+********** href : http://enews.imbc.com/News/RetrieveNewsInfo/337131
+********** title : [시빅뉴스의 일요 터치]도라에몽과 제트스트림, 유니클로...
+********** href : http://www.civicnews.com/news/articleView.html?idxno=27171
+***** row : 10
+***** for page : 18
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=171
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 닌텐도스위치, '도라에몽 진구의 달 탐사기' 한국어판 4월9일 출시
+********** href : http://www.thisisgame.com/webzine/game/nboard/225/?n=103065
+********** title : "22세기 미래까지"…만화 '100년 도라에몽' 日 28일부터 예약
+********** href : http://www.kyeonggi.com/news/articleView.html?idxno=2259606
+********** title : ‘마이웨이’ 이숙영, 딸 채민지는 성우 겸 가수…도라에몽 목소리 ‘모전여전’
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=1868809
+********** title : 캐릭터 '도라에몽', '아톰' 좋아한다면 가봐야 할 '도쿄 키덜트샵'
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2020/02/12/2020021280193.html
+********** title : '아는 형님' 아스트로 문빈X윤산하, '뿌뿌' 애교→도라에몽 개인기 방출
+********** href : http://enews.imbc.com/News/RetrieveNewsInfo/337131
+********** title : [시빅뉴스의 일요 터치]도라에몽과 제트스트림, 유니클로...
+********** href : http://www.civicnews.com/news/articleView.html?idxno=27171
+********** title : “이 시국에…” 식약처 日캐릭터 도라에몽 패러디 물의
+********** href : http://www.skyedaily.com/news/news_view.html?ID=97480
+********** title : 세계 첫 도라에몽 공식숍 등장한다
+********** href : http://www.kdfnews.com/news/articleView.html?idxno=40226
+********** title : [단독] '원피스·도라에몽·짱구' 캐릭터 미니블록 판매…법원 "저작권법 위반, 벌금 1500만원"
+********** href : http://www.asiatoday.co.kr/view.php?key=20191023010013119
+********** title : '도라에몽 진구의 달 탐사기' 한국어판, 스위치로 12월 출시
+********** href : https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1592457
+***** row : 10
+***** for page : 19
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=181
+********** status_code : 200
+********** len(tagA) : 10
+********** title : “이 시국에…” 식약처 日캐릭터 도라에몽 패러디 물의
+********** href : http://www.skyedaily.com/news/news_view.html?ID=97480
+********** title : 세계 첫 도라에몽 공식숍 등장한다
+********** href : http://www.kdfnews.com/news/articleView.html?idxno=40226
+********** title : [단독] '원피스·도라에몽·짱구' 캐릭터 미니블록 판매…법원 "저작권법 위반, 벌금 1500만원"
+********** href : http://www.asiatoday.co.kr/view.php?key=20191023010013119
+********** title : '도라에몽 진구의 달 탐사기' 한국어판, 스위치로 12월 출시
+********** href : https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1592457
+********** title : 스팀용 ‘도라에몽진구의목장이야기’ 10월 11일 발매
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=159457
+********** title : '도라에몽' 게임 발매 무기한 연기 왜?
+********** href : http://www.thegames.co.kr/news/articleView.html?idxno=217345
+********** title : [리뷰]추석 연휴, 고향의 정을 느낄 수 있는 '시젠타운'으로 가자... '도라에몽 진구의 목장이야기'
+********** href : http://gamefocus.co.kr/detail.php?number=97527
+********** title : 스팀용 ‘도라에몽진구의목장이야기’(한국어판) 10월 11일 발매 결정
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=158184
+********** title : "비율이 사람이면 난 도라에몽"…윤민수 아들 윤후, 트와이스 언급
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=14661867
+********** title : 인기 IP의 만남, 도라에몽 진구의 목장이야기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5d49a3cf5c32b
+***** row : 10
+***** for page : 20
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=191
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 도라에몽 진구의 목장이야기, 스팀용 발매
+********** href : http://www.betanews.net:8080/article/1056380.html
+********** title : '도라에몽' 게임 발매 무기한 연기 왜?
+********** href : http://www.thegames.co.kr/news/articleView.html?idxno=217345
+********** title : [리뷰]추석 연휴, 고향의 정을 느낄 수 있는 '시젠타운'으로 가자... '도라에몽 진구의 목장이야기'
+********** href : http://gamefocus.co.kr/detail.php?number=97527
+********** title : 스팀용 ‘도라에몽진구의목장이야기’(한국어판) 10월 11일 발매 결정
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=158184
+********** title : "비율이 사람이면 난 도라에몽"…윤민수 아들 윤후, 트와이스 언급
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=14661867
+********** title : 인기 IP의 만남, 도라에몽 진구의 목장이야기
+********** href : http://www.gameshot.net/common/con_view.php?code=GA5d49a3cf5c32b
+********** title : 진구의 목장이야기, 비밀도구도 없는 도라에몽이라니!
+********** href : http://www.gamemeca.com/mv.php?inflow=naver_s&gid=1572565
+********** title : [지평선] 도라에몽 개봉 연기
+********** href : http://www.hankookilbo.com/news/npath/201908051438077518?did=NA
+********** title : [직격인터뷰]日 불매운동→개봉 연기 '도라에몽' 측 "포스터도 만들었는데..어쩔 수 없었습니다"
+********** href : http://www.newsculture.press/view.htm?idxno=2019080216414543576
+********** title : 닌텐도스위치 ‘도라에몽 진구의 목장이야기’ 한국어판 25일 발매
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=157447
+***** row : 10
+***** for page : 21
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=201
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 진구의 목장이야기, 비밀도구도 없는 도라에몽이라니!
+********** href : http://www.gamemeca.com/mv.php?inflow=naver_s&gid=1572565
+********** title : [지평선] 도라에몽 개봉 연기
+********** href : http://www.hankookilbo.com/news/npath/201908051438077518?did=NA
+********** title : [직격인터뷰]日 불매운동→개봉 연기 '도라에몽' 측 "포스터도 만들었는데..어쩔 수 없었습니다"
+********** href : http://www.newsculture.press/view.htm?idxno=2019080216414543576
+********** title : 닌텐도스위치 ‘도라에몽 진구의 목장이야기’ 한국어판 25일 발매
+********** href : http://www.gamechosun.co.kr/webzine/article/view.php?no=157447
+********** title : 힘 꽉 주고 위협해도 '귀여워서' 눈물 터지는 무손목 '도라에몽 주먹'
+********** href : https://www.insight.co.kr/news/237814
+********** title : '극장판 도라에몽: 진구의 달 탐사기' 달 탐험 떠난 진구와 도라에몽
+********** href : http://stoo.com/article.php?aid=56269955928
+********** title : 스위치용 '도라에몽 진구의 목장이야기' 한국어판 11일 예약판매 개시
+********** href : http://www.thisisgame.com/webzine/news/nboard/4/?n=95838
+********** title : 달나라 향한 도라에몽…‘극장판 도라에몽’ 메인 포스터 전격 공개
+********** href : http://sports.donga.com/3/all/20190708/96371161/1
+********** title : PC용 '도라에몽 진구의 목장 이야기' 한국어판 11일 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=401943
+********** title : 3주년 맞은 아크시스템웍스 아시아지점, '도라에몽' 신작 등 신규 타이틀 13종으로 국내 시장 공략
+********** href : http://gamefocus.co.kr/detail.php?number=98373
+***** row : 10
+***** for page : 22
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=211
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 반남, 스위치용 '도라에몽 진구의 목장이야기' 출시(영상)...스팀 버전은?
+********** href : http://www.greened.kr/news/articleView.html?idxno=204771
+********** title : 힘 꽉 주고 위협해도 '귀여워서' 눈물 터지는 무손목 '도라에몽 주먹'
+********** href : https://www.insight.co.kr/news/237814
+********** title : '극장판 도라에몽: 진구의 달 탐사기' 달 탐험 떠난 진구와 도라에몽
+********** href : http://stoo.com/article.php?aid=56269955928
+********** title : 스위치용 '도라에몽 진구의 목장이야기' 한국어판 11일 예약판매 개시
+********** href : http://www.thisisgame.com/webzine/news/nboard/4/?n=95838
+********** title : 달나라 향한 도라에몽…‘극장판 도라에몽’ 메인 포스터 전격 공개
+********** href : http://sports.donga.com/3/all/20190708/96371161/1
+********** title : PC용 '도라에몽 진구의 목장 이야기' 한국어판 11일 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=401943
+********** title : 3주년 맞은 아크시스템웍스 아시아지점, '도라에몽' 신작 등 신규 타이틀 13종으로 국내 시장 공략
+********** href : http://gamefocus.co.kr/detail.php?number=98373
+********** title : 日 ‘아톰’ ‘도라에몽’ 휴머노이드 오랜 관심, 한국은... [같은 일본, 다른 일본]
+********** href : https://hankookilbo.com/News/Read/A2021111115580002419?did=NA
+********** title : ‘짱구’, ‘도라에몽’까지...시청률 하락하고 있는 일본 애니메이션
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=469729
+********** title : 애니원 '현충일 특집' 극장판 모아보기 방송… 도라에몽, 짱구는 못말려 등
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2019060415468011727
+***** row : 10
+***** for page : 23
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=221
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 도라에몽 진구의 목장이야기, 7월 11일 예약 판매 개시
+********** href : http://www.betanews.net:8080/article/1028503.html
+********** title : 달나라 향한 도라에몽…‘극장판 도라에몽’ 메인 포스터 전격 공개
+********** href : http://sports.donga.com/3/all/20190708/96371161/1
+********** title : PC용 '도라에몽 진구의 목장 이야기' 한국어판 11일 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=401943
+********** title : 3주년 맞은 아크시스템웍스 아시아지점, '도라에몽' 신작 등 신규 타이틀 13종으로 국내 시장 공략
+********** href : http://gamefocus.co.kr/detail.php?number=98373
+********** title : 日 ‘아톰’ ‘도라에몽’ 휴머노이드 오랜 관심, 한국은... [같은 일본, 다른 일본]
+********** href : https://hankookilbo.com/News/Read/A2021111115580002419?did=NA
+********** title : ‘짱구’, ‘도라에몽’까지...시청률 하락하고 있는 일본 애니메이션
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=469729
+********** title : 애니원 '현충일 특집' 극장판 모아보기 방송… 도라에몽, 짱구는 못말려 등
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2019060415468011727
+********** title : '도라에몽 버블건' 등 비눗방울 장난감서 ‘가습기 살균제 유독성’ 검출
+********** href : http://www.etoday.co.kr/news/section/newsview.php?idxno=1804820
+********** title : NS 버전 ‘도라에몽 진구의 목장 이야기’ 한국어판 7월 25일 발매 결정
+********** href : http://www.thisisgame.com/webzine/game/nboard/225/?n=94193
+********** title : 네이버·카카오, '도라에몽' 모바일 게임 개발 위해 '맞손'
+********** href : http://www.segye.com/content/html/2019/04/24/20190424503825.html?OutUrl=naver
+***** row : 10
+***** for page : 24
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=231
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 반다이남코 엔터테인먼트 코리아 '도라에몽 진구의 목장 이야기' 한국어 번역판 7월 25일 발매
+********** href : http://gamefocus.co.kr/detail.php?number=93885
+********** title : 네이버·카카오, '도라에몽' 모바일 게임 개발 위해 '맞손'
+********** href : http://www.segye.com/content/html/2019/04/24/20190424503825.html?OutUrl=naver
+********** title : 카카오게임즈, '도라에몽' 모바일 게임 앱 개발...연내 일본 출시
+********** href : http://www.ajunews.com/view/20190423164928147
+********** title : [노컷게임] 카카오게임즈, ‘도라에몽’ 모바일게임 개발한다
+********** href : https://www.nocutnews.co.kr/news/5139737
+********** title : ‘도라에몽 진구의 목정 이야기’ 한국어판 게임 속 특별 아이템 정보 공개
+********** href : http://www.thisisgame.com/webzine/news/nboard/4/?n=93467&utm_source=naver&utm_medium=outlink&utm_campaign=thisisgame&utm_content=93467&nogate
+********** title : '도라에몽'이 게임으로…카카오게임즈, 라인과 협업
+********** href : http://www.inews24.com/view/1173778
+********** title : PC용 '도라에몽 진구의 목장 이야기' 10월 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=387868
+********** title : 치명적 귀여움으로 '덕후'들 심장 폭행한 '폴앤조X도라에몽' 컬렉션
+********** href : https://www.insight.co.kr/news/220454
+********** title : 닌텐도 스위치 '도라에몽 노비타의 목장 이야기' 6월 13일 발매일 확정! 심형탁 보고 있나?
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2019/04/03/2019040380008.html
+********** title : 한·일 갈등 여파...`도라에몽` 개봉 무기한 연기
+********** href : http://star.mk.co.kr/new/view.php?mc=ST&year=2019&no=593964
+***** row : 10
+***** for page : 25
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=241
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 카카오게임즈-라인, '도라에몽' 캐릭터 활용 게임 개발 협업
+********** href : http://www.greened.kr/news/articleView.html?idxno=103908
+********** title : PC용 '도라에몽 진구의 목장 이야기' 10월 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=387868
+********** title : 치명적 귀여움으로 '덕후'들 심장 폭행한 '폴앤조X도라에몽' 컬렉션
+********** href : https://www.insight.co.kr/news/220454
+********** title : 닌텐도 스위치 '도라에몽 노비타의 목장 이야기' 6월 13일 발매일 확정! 심형탁 보고 있나?
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2019/04/03/2019040380008.html
+********** title : 한·일 갈등 여파...`도라에몽` 개봉 무기한 연기
+********** href : http://star.mk.co.kr/new/view.php?mc=ST&year=2019&no=593964
+********** title : 깜깜한 미래에 불안한 '취준생'들 눈물샘 자극하는 '도라에몽' 속 명대사 6
+********** href : https://www.insight.co.kr/news/212491
+********** title : 심형탁 도라에몽 시계차고 '말안하면 고급시계인줄..'
+********** href : http://daily.hankooki.com/lpage/entv/201902/dh20190228064130139020.htm
+********** title : 왕따 당한 아픔 떨쳐내려 만화 그렸다가 국민 캐릭터 만든 '도라에몽' 작가
+********** href : https://www.insight.co.kr/news/212136
+********** title : '도라에몽 진구의 목장 이야기' 한국어판 11일부터 예약 판매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=375166
+********** title : 어두우면 자체 발광하는 CGV '도라에몽' 콤보
+********** href : https://www.insight.co.kr/news/211323
+***** row : 10
+***** for page : 26
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=251
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 카카오게임즈, '도라에몽'으로 모바일게임 개발
+********** href : http://sports.chosun.com/news/ntype.htm?id=201904240100189840012813&servicedate=20190423
+********** title : PC용 '도라에몽 진구의 목장 이야기' 10월 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=387868
+********** title : 치명적 귀여움으로 '덕후'들 심장 폭행한 '폴앤조X도라에몽' 컬렉션
+********** href : https://www.insight.co.kr/news/220454
+********** title : 닌텐도 스위치 '도라에몽 노비타의 목장 이야기' 6월 13일 발매일 확정! 심형탁 보고 있나?
+********** href : http://digitalchosun.dizzo.com/site/data/html_dir/2019/04/03/2019040380008.html
+********** title : 한·일 갈등 여파...`도라에몽` 개봉 무기한 연기
+********** href : http://star.mk.co.kr/new/view.php?mc=ST&year=2019&no=593964
+********** title : 깜깜한 미래에 불안한 '취준생'들 눈물샘 자극하는 '도라에몽' 속 명대사 6
+********** href : https://www.insight.co.kr/news/212491
+********** title : 심형탁 도라에몽 시계차고 '말안하면 고급시계인줄..'
+********** href : http://daily.hankooki.com/lpage/entv/201902/dh20190228064130139020.htm
+********** title : 왕따 당한 아픔 떨쳐내려 만화 그렸다가 국민 캐릭터 만든 '도라에몽' 작가
+********** href : https://www.insight.co.kr/news/212136
+********** title : '도라에몽 진구의 목장 이야기' 한국어판 11일부터 예약 판매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=375166
+********** title : 어두우면 자체 발광하는 CGV '도라에몽' 콤보
+********** href : https://www.insight.co.kr/news/211323
+***** row : 10
+***** for page : 27
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=261
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 심형탁 도라에몽 시계차고 '말안하면 고급시계인줄..'
+********** href : http://daily.hankooki.com/lpage/entv/201902/dh20190228064130139020.htm
+********** title : 왕따 당한 아픔 떨쳐내려 만화 그렸다가 국민 캐릭터 만든 '도라에몽' 작가
+********** href : https://www.insight.co.kr/news/212136
+********** title : '도라에몽 진구의 목장 이야기' 한국어판 11일부터 예약 판매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=375166
+********** title : 어두우면 자체 발광하는 CGV '도라에몽' 콤보
+********** href : https://www.insight.co.kr/news/211323
+********** title : 스위치용 ‘도라에몽 진구의 목장 이야기’ 한국어판 2019년 발매 결정
+********** href : http://www.inven.co.kr/webzine/news/?news=215101
+********** title : [포토]심형탁, '하트의 주인공은 도라에몽?'
+********** href : http://isplus.live.joins.com/news/article/article.asp?total_id=24213402
+********** title : 심형탁, 도라에몽 반가워요~[포토엔HD]
+********** href : https://www.newsen.com/news_view.php?uid=202203211432341510
+********** title : 팝콘D스퀘어, 실물 크기 '도라에몽' 만나볼 수 있어…'심형탁 보고 있나'
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=554956
+********** title : 닌텐도 스위치용 '도라에몽 진구의 목장 이야기' 7월 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=360462
+********** title : 애니원 크리스마스 특집, 극장판 '도라에몽 진구의 보물섬' 첫 방송
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2018121414418044271
+***** row : 10
+***** for page : 28
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=271
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 심형탁, 출근길 인사는 도라에몽~[포토엔HD]
+********** href : https://www.newsen.com/news_view.php?uid=202203211435161510
+********** title : 팝콘D스퀘어, 실물 크기 '도라에몽' 만나볼 수 있어…'심형탁 보고 있나'
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=554956
+********** title : 닌텐도 스위치용 '도라에몽 진구의 목장 이야기' 7월 정식 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=360462
+********** title : 애니원 크리스마스 특집, 극장판 '도라에몽 진구의 보물섬' 첫 방송
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2018121414418044271
+********** title : 알고 보면 온몸에 소름 '쫙' 돋는 도라에몽의 섬뜩한 도구 여섯 가지
+********** href : https://www.insight.co.kr/news/196588
+********** title : "이건 없죠?"···한 팬이 '도라에몽 굿즈'로 도발하자 심형탁이 보인 반응
+********** href : https://www.insight.co.kr/news/192704
+********** title : 카카오-라인, 모바일 게임 '도라에몽' 함께 만든다
+********** href : https://www.sedaily.com/NewsView/1VHZ8DW2NK
+********** title : 카카오게임즈-라인게임, '도라에몽' 게임 함께 만든다
+********** href : http://www.thegames.co.kr/news/articleView.html?idxno=211495
+********** title : 반다이남코, '도라에몽 목장이야기' 스팀 발매
+********** href : http://www.thegames.co.kr/news/articleView.html?idxno=215436
+********** title : 심형탁, 남다른 도라에몽 사랑 "난이제 도라에몽과 얘기를 한다"
+********** href : http://daily.hankooki.com/lpage/entv/201810/dh20181021100439139020.htm
+***** row : 10
+***** for page : 29
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=281
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 심형탁, 남다른 도라에몽 사랑 "난이제 도라에몽과 얘기를 한다"
+********** href : http://daily.hankooki.com/lpage/entv/201810/dh20181021100439139020.htm
+********** title : [#별별샷]배우 심형탁…“난 이제 도라에몽과 얘기를 한다...” SNS 화제
+********** href : http://www.newsculture.press/view.htm?idxno=2018100912000058044
+********** title : 귀여움이 한층 UP 된 '신상' AI 스피커…클로바 프렌즈 미니 도라에몽·카카오미니C
+********** href : http://news.tongplus.com/site/data/html_dir/2018/08/28/2018082803086.html
+********** title : 애니원, 9월3일 도라에몽 생일 기념 특집 편성
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2018082814188032032
+********** title : 도라에몽 노란색, 왜 실검? 파란색 아닌 '노란색+뾰족 귀+빨간색 꼬리'
+********** href : http://www.kyeongin.com/main/view.php?key=20180828001247574
+********** title : 배우 서영, 도라에몽과 함께 찰칵...완벽 몸매에 '화들짝'
+********** href : http://www.ggilbo.com/news/articleView.html?idxno=539729
+********** title : '도라에몽 진구의 목장 이야기' 한국어판 2019년 발매
+********** href : http://www.newsworks.co.kr/news/articleView.html?idxno=336188
+********** title : 도라에몽 만난 네이버 AI 스피커
+********** href : http://biz.chosun.com/site/data/html_dir/2018/08/21/2018082103709.html?utm_source=naver&utm_medium=original&utm_campaign=biz
+********** title : 네이버, AI 스피커 ‘프렌즈 미니’ 도라에몽 에디션 추가...27일부터 판매
+********** href : http://www.ajunews.com/view/20180821130715682
+********** title : [SR문화] '극장판 도라에몽: 진구의 신공룡'…2주차 굿즈 패키지 상영회 진행
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=97947
+***** row : 10
+***** for page : 30
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=291
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "도라에몽과 대화를"..네이버, AI스피커에 <도라에몽> 에디션 추가
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=02417366619309616
+********** title : [SR문화] '극장판 도라에몽: 진구의 신공룡'…2주차 굿즈 패키지 상영회 진행
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=97947
+********** title : 네이버, 미니언즈 이어 ‘도라에몽’ AI 스피커 출시
+********** href : http://www.zdnet.co.kr/ArticleView.asp?artice_id=20180820175520
+********** title : 애니메이션 개봉영화순위 1위 '극장판 도라에몽: 진구의 보물섬', 2위 '플로이', 3위 몬스터 호텔 3, 4위 '명탐정 코난: 제로의 집행인', 5위 '극장판 헬로카봇: 백악기 시대'
+********** href : http://www.lecturernews.com/news/articleView.html?idxno=6051
+********** title : CGV, 세 가지 도라에몽 콤보 판매 중…'가격과 구성은?'
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=464553
+********** title : [부천]현대백화점 중동점 '도라에몽 편법장사'
+********** href : http://www.kyeongin.com/main/view.php?key=20180813010003846
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=3751066
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://yna.kr/AKR20190203023600073?did=1195m
+********** title : '극장판 도라에몽: 진구의 보물섬' 주말 극장가 특별한 코스튬 이벤트 일정 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84662
+********** title : 홍보대사 심형탁 '도라에몽' 박사로 변신, '도라에몽 TMI 연구소' 영상 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84581
+***** row : 10
+***** for page : 31
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=301
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 네이버 AI스피커 '프렌즈 미니' 도라에몽 에디션 27일 국내 출시
+********** href : http://www.fnnews.com/news/201808211221244470
+********** title : [SR문화] '극장판 도라에몽: 진구의 신공룡'…2주차 굿즈 패키지 상영회 진행
+********** href : http://www.srtimes.kr/news/articleView.html?idxno=97947
+********** title : 네이버, 미니언즈 이어 ‘도라에몽’ AI 스피커 출시
+********** href : http://www.zdnet.co.kr/ArticleView.asp?artice_id=20180820175520
+********** title : 애니메이션 개봉영화순위 1위 '극장판 도라에몽: 진구의 보물섬', 2위 '플로이', 3위 몬스터 호텔 3, 4위 '명탐정 코난: 제로의 집행인', 5위 '극장판 헬로카봇: 백악기 시대'
+********** href : http://www.lecturernews.com/news/articleView.html?idxno=6051
+********** title : CGV, 세 가지 도라에몽 콤보 판매 중…'가격과 구성은?'
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=464553
+********** title : [부천]현대백화점 중동점 '도라에몽 편법장사'
+********** href : http://www.kyeongin.com/main/view.php?key=20180813010003846
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=3751066
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://yna.kr/AKR20190203023600073?did=1195m
+********** title : '극장판 도라에몽: 진구의 보물섬' 주말 극장가 특별한 코스튬 이벤트 일정 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84662
+********** title : 홍보대사 심형탁 '도라에몽' 박사로 변신, '도라에몽 TMI 연구소' 영상 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84581
+***** row : 10
+***** for page : 32
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=311
+********** status_code : 200
+********** len(tagA) : 10
+********** title : CGV, 세 가지 도라에몽 콤보 판매 중…'가격과 구성은?'
+********** href : http://www.topstarnews.net/news/articleView.html?idxno=464553
+********** title : [부천]현대백화점 중동점 '도라에몽 편법장사'
+********** href : http://www.kyeongin.com/main/view.php?key=20180813010003846
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=3751066
+********** title : 日극우인사 韓비판 자제론…"한국 도라에몽 '진구' 취급 틀렸다"
+********** href : http://yna.kr/AKR20190203023600073?did=1195m
+********** title : '극장판 도라에몽: 진구의 보물섬' 주말 극장가 특별한 코스튬 이벤트 일정 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84662
+********** title : 홍보대사 심형탁 '도라에몽' 박사로 변신, '도라에몽 TMI 연구소' 영상 공개
+********** href : http://gamefocus.co.kr/detail.php?number=84581
+********** title : '극장판 도라에몽: 진구의 보물섬' 국내 최초 시사회 종료
+********** href : http://gamefocus.co.kr/detail.php?number=84508
+********** title : 대원미디어, '극장판 도라에몽: 진구의 보물섬' 기부 캠페인 실시
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2018073008338062724
+********** title : 대원미디어, ‘극장판 도라에몽’ 개봉 앞두고 기부 캠페인
+********** href : https://kizmom.hankyung.com/news/view.html?aid=201807277458o
+********** title : ‘극장판 도라에몽: 진구의 보물섬’, 기부 캠페인..대한아토피협회와 MOU
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=01538326619279112
+***** row : 10
+***** for page : 33
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=321
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 대원미디어-대한아토피협회 MOU 체결... '극장판 도라에몽: 진구의 보물섬' 18만 관객 동원시 수익 일부 기부
+********** href : http://gamefocus.co.kr/detail.php?number=84400
+********** title : 도라에몽 덕질하던 현대백화점 직원이 인형 100개 모아서 만든 '귀염뽀짝' 전시회
+********** href : http://www.insight.co.kr/news/168413
+********** title : "판교 현대백화점에 도라에몽이 떴다"…대원미디어, 팝업스토어 오픈
+********** href : http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2018072513152740537
+********** title : '도라에몽 진구의 신공룡' 더욱 몰입할 수 있는 관점 포인트 3
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=509729
+********** title : 인기 캐릭터 '도라에몽' 너무 좋아 온집안을 파랗게 도배한 '덕후' 부부
+********** href : http://www.insight.co.kr/news/167087
+********** title : ‘극장판 도라에몽: 진구의 보물섬’, 8월 15일 개봉 확정..수채화 포스터 공개
+********** href : http://www.breaknews.com/sub_read.html?uid=589947§ion=sc4
+********** title : [콘솔] '도라에몽 진구의 신공룡' 한국어판, 닌텐도 스위치로 정식 출시
+********** href : http://www.inven.co.kr/webzine/news/?news=260393&site=console
+********** title : 진구의 신공룡, 51년차 도라에몽과 떠나는 백악기 여행
+********** href : https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1664895
+********** title : '컬투쇼' 심형탁 "학생, 도라에몽 인형과 극장표 바꿀래?"
+********** href : http://star.mt.co.kr/stview.php?no=2018070615313197753
+********** title : '모가디슈' 흥행 돌풍...더 수어사이드 스쿼드·그린나이트·도라에몽 출격
+********** href : http://www.newsis.com/view/?id=NISX20210803_0001536283&cID=10601&pID=10600
+***** row : 10
+***** for page : 34
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=331
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "실물 크기 도라에몽 본적있니?"... 대원미디어, 팝업스토어 운영
+********** href : http://www.asiatime.co.kr/news/articleView.html?idxno=190291
+********** title : '도라에몽 진구의 신공룡' 더욱 몰입할 수 있는 관점 포인트 3
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=509729
+********** title : 인기 캐릭터 '도라에몽' 너무 좋아 온집안을 파랗게 도배한 '덕후' 부부
+********** href : http://www.insight.co.kr/news/167087
+********** title : ‘극장판 도라에몽: 진구의 보물섬’, 8월 15일 개봉 확정..수채화 포스터 공개
+********** href : http://www.breaknews.com/sub_read.html?uid=589947§ion=sc4
+********** title : [콘솔] '도라에몽 진구의 신공룡' 한국어판, 닌텐도 스위치로 정식 출시
+********** href : http://www.inven.co.kr/webzine/news/?news=260393&site=console
+********** title : 진구의 신공룡, 51년차 도라에몽과 떠나는 백악기 여행
+********** href : https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1664895
+********** title : '컬투쇼' 심형탁 "학생, 도라에몽 인형과 극장표 바꿀래?"
+********** href : http://star.mt.co.kr/stview.php?no=2018070615313197753
+********** title : '모가디슈' 흥행 돌풍...더 수어사이드 스쿼드·그린나이트·도라에몽 출격
+********** href : http://www.newsis.com/view/?id=NISX20210803_0001536283&cID=10601&pID=10600
+********** title : '극장판 도라에몽: 진구의 보물섬' 8월 개봉 확정…시리즈 사상 최고 흥행작 상륙
+********** href : http://www.mediapen.com/news/view/365817
+********** title : '퍼피 구조대 더 무비'→'극장판 도라에몽', 여름 극장가 활력 넣을 애니메이션
+********** href : https://www.xportsnews.com/?ac=article_view&entry_id=1456877
+***** row : 10
+***** for page : 35
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=341
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '모가디슈' 흥행 돌풍...더 수어사이드 스쿼드·그린나이트·도라에몽 출격
+********** href : http://www.newsis.com/view/?id=NISX20210803_0001536283&cID=10601&pID=10600
+********** title : '극장판 도라에몽: 진구의 보물섬' 8월 개봉 확정…시리즈 사상 최고 흥행작 상륙
+********** href : http://www.mediapen.com/news/view/365817
+********** title : '퍼피 구조대 더 무비'→'극장판 도라에몽', 여름 극장가 활력 넣을 애니메이션
+********** href : https://www.xportsnews.com/?ac=article_view&entry_id=1456877
+********** title : ‘극장판 도라에몽: 진구의 신공룡’ 여름방학 최고의 기대작 등극
+********** href : https://www.newsen.com/news_view.php?uid=202108031116031810
+********** title : 반다이남코, '도라에몽 목장이야기' 스위치 발매
+********** href : http://www.thegames.co.kr/news/articleView.html?idxno=213636
+********** title : '극장판 도라에몽: 진구의 신공룡' 개봉 1주차 굿즈 패키지 상영회 확정
+********** href : http://www.slist.kr/news/articleView.html?idxno=272953
+********** title : [미리보는] '블랙핑크 더 무비'-'더 수어사이드 스쿼드'-'극장판 도라에몽 :진구의 신공룡'
+********** href : http://star.mt.co.kr/stview.php?no=2021072916400157109
+********** title : 도라에몽·라이언, AI 스피커 주연 되나
+********** href : http://www.inews24.com/php/news_view.php?g_serial=1098303&g_menu=020310&rrf=nv
+********** title : "심형탁 씨 필구할듯!" 일본에 출시된 도라에몽 인공지능 스피커 (영상)
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=347955
+********** title : 남양유업, ‘초코에몽’ 덕후 인증샷 찍고 ‘도라에몽’ 성지투어 가자!
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2018052718458080701
+***** row : 10
+***** for page : 36
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=351
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘도라에몽 덕후들이여 모여라’…남양유업, 5월31일까지 초코에몽 인증샷 이벤트 진행
+********** href : http://www.nextdaily.co.kr/news/article.html?id=20180526800007
+********** title : 도라에몽, 현대 미술가 무라카미 다카시를 만나다
+********** href : http://magazine.jungle.co.kr/designnews/daily/view_new.asp?idx=31064&cate=5
+********** title : '극장판 도라에몽: 진구의 신공룡', 1주차 관객 선물 공개
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=509385
+********** title : '초코에몽' 덕후 인증샷 찍고 '도라에몽' 성지투어 가자!
+********** href : http://www.newsworker.co.kr/news/articleView.html?idxno=18458
+********** title : 유니클로, 무라카미 다카시의 ‘도라에몽 티셔츠’선봬
+********** href : http://www.joseilbo.com/news/news_read.php?uid=353665&class=17&grp=
+********** title : [비바100] 앤, 보도보노, 도라에몽…언제나 내 곁에서 그렇게 말해 줘! "조금 늦어도 괜찮아!"
+********** href : http://www.viva100.com/main/view.php?key=20180513010004307
+********** title : '극장판 도라에몽' CGV·롯데시네마·메가박스·씨네Q 프로모션
+********** href : http://www.slist.kr/news/articleView.html?idxno=271928
+********** title : 롯데리아서 1500원에 득템할 수 있는 '핵귀' 도라에몽 LED 피규어
+********** href : http://www.insight.co.kr/news/154621
+********** title : 최고 흥행 스코어 최정상 제작진 뭉친 '극장판 도라에몽: 진구의 신공룡'
+********** href : http://www.slist.kr/news/articleView.html?idxno=271167
+********** title : '극장판 도라에몽 : 진구의 신공룡'..'귀멸의 칼날' 흥행 이을까
+********** href : http://star.mt.co.kr/stview.php?no=2021072215213627730
+***** row : 10
+***** for page : 37
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=361
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [리뷰] '극장판 도라에몽: 진구의 신공룡' 백악기로 향한 진구와 도라에몽의 시간 여행
+********** href : http://www.cine21.com/news/view/?mag_id=98310&utm_source=naver&utm_medium=news
+********** title : [비바100] 앤, 보도보노, 도라에몽…언제나 내 곁에서 그렇게 말해 줘! "조금 늦어도 괜찮아!"
+********** href : http://www.viva100.com/main/view.php?key=20180513010004307
+********** title : '극장판 도라에몽' CGV·롯데시네마·메가박스·씨네Q 프로모션
+********** href : http://www.slist.kr/news/articleView.html?idxno=271928
+********** title : 롯데리아서 1500원에 득템할 수 있는 '핵귀' 도라에몽 LED 피규어
+********** href : http://www.insight.co.kr/news/154621
+********** title : 최고 흥행 스코어 최정상 제작진 뭉친 '극장판 도라에몽: 진구의 신공룡'
+********** href : http://www.slist.kr/news/articleView.html?idxno=271167
+********** title : '극장판 도라에몽 : 진구의 신공룡'..'귀멸의 칼날' 흥행 이을까
+********** href : http://star.mt.co.kr/stview.php?no=2021072215213627730
+********** title : '극장판 도라에몽: 진구의 신공룡', 8월 5일 개봉 확정
+********** href : http://www.slist.kr/news/articleView.html?idxno=270178
+********** title : 아크시스템웍스 '도라에몽 진구의 신공룡' 한국어판 8월 5일 출시... 23일 패키지판 예판 시작
+********** href : http://gamefocus.co.kr/detail.php?number=119803
+********** title : 여름방학 볼거리 생겼다… '신 도라에몽 17기' 23일 첫 방송
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2021072210478053060
+********** title : 50주년 기념 극장판 '도라에몽', 기무라 타쿠야→진구 변신 역대급 포인트
+********** href : http://www.slist.kr/news/articleView.html?idxno=269394
+***** row : 10
+***** for page : 38
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=371
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 아크시스템웍스 '도라에몽 진구의 신공룡' 한국어판 8월 5일 출시... 23일 패키지판 예판 시작
+********** href : http://gamefocus.co.kr/detail.php?number=119803
+********** title : 여름방학 볼거리 생겼다… '신 도라에몽 17기' 23일 첫 방송
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2021072210478053060
+********** title : 50주년 기념 극장판 '도라에몽', 기무라 타쿠야→진구 변신 역대급 포인트
+********** href : http://www.slist.kr/news/articleView.html?idxno=269394
+********** title : [★ 무명시절 말말말③] 심형탁 "초등학생들, 나 지나가면 '도라에몽' 이라고 불러"
+********** href : http://www.obsnews.co.kr/news/articleView.html?idxno=1082986
+********** title : '극장판 도라에몽: 진구의 신공룡' 팬아트 디자인공모전 진행
+********** href : http://www.gokorea.kr/news/articleView.html?idxno=710043
+********** title : 새롭게 돌아온 도라에몽... 애니원, ‘신 도라에몽 13기’ 2월 방영
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10008962386&plink=ORI&cooper=NAVER
+********** title : [컨콜] 여민수 카카오 대표 "'도라에몽' 모바일 게임, 연내 日 출시"
+********** href : http://www.asiatoday.co.kr/view.php?key=20190509010004887
+********** title : [키덜트 추천] 속이 훤히 비치는 '도라에몽'과 타임머신 프라모델
+********** href : http://it.chosun.com/news/article.html?no=2845130
+********** title : 日 국민 배우 기무라 타쿠야, '극장판 도라에몽: 진구의 신공룡' 목소리 출연
+********** href : https://www.news1.kr/articles/?4372177
+********** title : 도라에몽 덕후 심형탁, 대대장앞에서 도라에몽 주제가 열창! "이야 굉장하다"
+********** href : http://www.starseoultv.com/news/articleView.html?idxno=483432
+***** row : 10
+***** for page : 39
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=381
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 日 국민 배우 기무라 타쿠야, '극장판 도라에몽: 진구의 신공룡' 목소리 출연
+********** href : https://www.news1.kr/articles/?4372177
+********** title : 도라에몽 덕후 심형탁, 대대장앞에서 도라에몽 주제가 열창! "이야 굉장하다"
+********** href : http://www.starseoultv.com/news/articleView.html?idxno=483432
+********** title : '극장판 도라에몽' 시리즈 40번째 귀환...8월 개봉
+********** href : http://www.newsis.com/view/?id=NISX20210713_0001511641&cID=10601&pID=10600
+********** title : 50주년 기념 ‘극장판 도라에몽: 진구의 신공룡’ 1차 예고편&1차 포스터 공개
+********** href : https://sports.donga.com/article/all/20210713/107924427/1
+********** title : 극장판 '도라에몽', 진구X쌍둥이 큐·뮤 1차 포스터
+********** href : http://www.slist.kr/news/articleView.html?idxno=266799
+********** title : 드롭탑, 겨울 음료 먹고 '도라에몽 무드등' 득템까지
+********** href : http://www.joseilbo.com/news/news_read.php?uid=340813&class=17&grp=
+********** title : ‘도라에몽 파크’ 놀러오세요
+********** href : http://news.hankyung.com/article/2018072589061
+********** title : 도라에몽 이불, 심형탁 반하나? ‘극장판 도라에몽’ 시사 참석까지 한 특급 덕후?
+********** href : http://www.topstarnews.net/detail.php?number=324115
+********** title : '극장판 도라에몽: 진구의 신공룡', 러블리 쌍둥이 공룡 등장...스틸 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=266252
+********** title : [11월 프라모델]①반다이, 속 보이는 도라에몽 등으로 3040세대 정조준
+********** href : http://it.chosun.com/news/article.html?no=2841574
+***** row : 10
+***** for page : 40
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=391
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 드롭탑, 겨울 음료 먹고 '도라에몽 무드등' 득템까지
+********** href : http://www.joseilbo.com/news/news_read.php?uid=340813&class=17&grp=
+********** title : ‘도라에몽 파크’ 놀러오세요
+********** href : http://news.hankyung.com/article/2018072589061
+********** title : 도라에몽 이불, 심형탁 반하나? ‘극장판 도라에몽’ 시사 참석까지 한 특급 덕후?
+********** href : http://www.topstarnews.net/detail.php?number=324115
+********** title : '극장판 도라에몽: 진구의 신공룡', 러블리 쌍둥이 공룡 등장...스틸 공개
+********** href : http://www.slist.kr/news/articleView.html?idxno=266252
+********** title : [11월 프라모델]①반다이, 속 보이는 도라에몽 등으로 3040세대 정조준
+********** href : http://it.chosun.com/news/article.html?no=2841574
+********** title : 트라이비, 핼러윈 기념 7인 7색 변신…송선 ‘도라에몽’ 압권
+********** href : http://sports.khan.co.kr/news/sk_index.html?art_id=202111012112003&sec_id=540101&pt=nv
+********** title : [사진] 홍콩 시위 현장에 나타난 '도라에몽'
+********** href : http://www.newspim.com/news/view/20200102000414
+********** title : [영화] '도라에몽:진구의 신공룡', 오리지널 스토리로 돌아왔다!···8월 개봉 확정
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=507944
+********** title : 태국 실사판 '도라에몽'…동글동글 귀여운 도라에몽은 가라
+********** href : http://www.newspim.com/news/view/20170912000061
+********** title : 애니원, 9월3일 도라에몽 생일 맞아 특집 편성
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2017083008178089708&outlink=1
+***** row : 10
+***** for page : 41
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=401
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [11월 프라모델]①반다이, 속 보이는 도라에몽 등으로 3040세대 정조준
+********** href : http://it.chosun.com/news/article.html?no=2841574
+********** title : 트라이비, 핼러윈 기념 7인 7색 변신…송선 ‘도라에몽’ 압권
+********** href : http://sports.khan.co.kr/news/sk_index.html?art_id=202111012112003&sec_id=540101&pt=nv
+********** title : [사진] 홍콩 시위 현장에 나타난 '도라에몽'
+********** href : http://www.newspim.com/news/view/20200102000414
+********** title : [영화] '도라에몽:진구의 신공룡', 오리지널 스토리로 돌아왔다!···8월 개봉 확정
+********** href : http://www.mhns.co.kr/news/articleView.html?idxno=507944
+********** title : 태국 실사판 '도라에몽'…동글동글 귀여운 도라에몽은 가라
+********** href : http://www.newspim.com/news/view/20170912000061
+********** title : 애니원, 9월3일 도라에몽 생일 맞아 특집 편성
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2017083008178089708&outlink=1
+********** title : ‘100 도라에몽 비밀병기 전시회’가 중국 샤먼서 열려
+********** href : http://kr.people.com.cn/n3/2017/0824/c203281-9259693.html
+********** title : 일본 만화 '도라에몽'이 중국에서 사랑받는 이유
+********** href : http://www.ytn.co.kr/_ln/0104_201708231145061443
+********** title : 지금 CGV 가면 살 수 있는 한정판 '세젤귀' 도라에몽 콤보
+********** href : http://www.insight.co.kr/news/116955
+********** title : "일본은 패전국"…일본인 상대로 팩트 폭격한 도라에몽
+********** href : http://www.newspim.com/news/view/20170821000072
+***** row : 10
+***** for page : 42
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=411
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "일본은 패전국"…일본인 상대로 팩트 폭격한 도라에몽
+********** href : http://www.newspim.com/news/view/20170821000072
+********** title : 너도나도 '도라에몽 캐릭터컵' 인증, 극장판 도라에몽 SNS에서도 인기
+********** href : http://gamefocus.co.kr/detail.php?number=73719
+********** title : [로그인 투 매트릭스]③ 감정 로봇 시대의 개화…"인간에겐 도라에몽이 필요해"
+********** href : http://biz.chosun.com/site/data/html_dir/2017/08/13/2017081301715.html
+********** title : 지갑 탈탈 털어서 사고 싶은 세젤귀 'CGV 도라에몽 콤보'
+********** href : http://www.insight.co.kr/news/115820
+********** title : '극장판 도라에몽: 진구의 남극 꽁꽁 대모험' 관람 포인트 TOP3 공개
+********** href : http://gamefocus.co.kr/detail.php?number=73579
+********** title : 러비더비 도라에몽, 도라미 섬유향수 출시
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0011672556&code=61141611&cp=nv
+********** title : [무비캘린더] ‘청년경찰’ ‘도라에몽’ 등 개봉, 이번 주 뭐 볼까?
+********** href : http://chicnews.mk.co.kr/article.php?aid=1502156132149427011
+********** title : '극장판 도라에몽: 진구의 남극 꽁꽁 대모험'의 '도라에몽' 주말 극장가 방문
+********** href : http://gamefocus.co.kr/detail.php?number=73295
+********** title : 함안군 애니메이션 영화 '도라에몽' 상영
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=304329
+********** title : '극장판 도라에몽: 진구의 남극 꽁꽁 대모험' 4차원 비밀도구 영상 최초 공개
+********** href : http://gamefocus.co.kr/detail.php?number=73166
+***** row : 10
+***** for page : 43
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=421
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '극장판 도라에몽: 진구의 남극 꽁꽁 대모험' 4차원 비밀도구 영상 최초 공개
+********** href : http://gamefocus.co.kr/detail.php?number=73166
+********** title : '극장판 도라에몽: 진구의 남극 꽁꽁 대모험' 보도스틸 9종 공개
+********** href : http://gamefocus.co.kr/detail.php?number=72675
+********** title : '이모티: 더 무비' '카3' '도라에몽' '슈퍼배드 3' 어린이들의 취향 저격한 애니메이션 연이어 개봉
+********** href : http://gamefocus.co.kr/detail.php?number=72671
+********** title : ‘극장판 도라에몽: 진구의 남극 꽁꽁 대모험’ 티저 예고편 공개
+********** href : http://sports.donga.com/3/all/20170630/85133760/1
+********** title : 학교 올 때마다 '이삿짐'(?) 싸 들고 다니는 '도라에몽' 친구한테 선물하기 딱인 초대형 백팩
+********** href : https://www.insight.co.kr/news/256691
+********** title : 공시생들에게 인기라는 도라에몽 '암기빵' 메모지
+********** href : http://www.insight.co.kr/newsRead.php?ArtNo=108298
+********** title : '도라에몽 모양 만쥬' 10개 넘게 들어 있는 '달콤 슈크림 빵'
+********** href : http://www.insight.co.kr/newsRead.php?ArtNo=100530
+********** title : 시험 전날 급식 메뉴에 '도라에몽 암기빵'이 나오는 학교
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=297984
+********** title : 깜찍한 도라에몽 스피커
+********** href : http://techholic.co.kr/archives/33327
+********** title : 이마트위드미, 도라에몽 아이스 도라야끼 출시
+********** href : http://www.sedaily.com/NewsView/1ODELP1DT6
+***** row : 10
+***** for page : 44
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=431
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 깜찍한 도라에몽 스피커
+********** href : http://techholic.co.kr/archives/33327
+********** title : 이마트위드미, 도라에몽 아이스 도라야끼 출시
+********** href : http://www.sedaily.com/NewsView/1ODELP1DT6
+********** title : VR로 즐기는 도라에몽 '어디로든 문' 체험회 열린다
+********** href : http://it.chosun.com/news/article.html?no=2830632
+********** title : UFO가 '도라에몽' 풍선?…F-15K 2대 출격 해프닝
+********** href : http://news1.kr/articles/?2906173
+********** title : 애니원, 설 연휴 맞아 '도라에몽' 극장판 등 특집 방영
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2017012416248051032&outlink=1
+********** title : [TV온에어] ‘씬스틸러’ 심형탁X강예원, 귀엽기 짝이 없는 도라에몽 상황극
+********** href : http://tvdaily.co.kr/read.php3?aid=14851848741204606019
+********** title : 심형탁 "도라에몽이 제일 싫어"
+********** href : http://app.yonhapnews.co.kr/YNA/Basic/SNS/r.aspx?c=PYH20170123118200013&did=1196m
+********** title : [강신우의 닥치Go]'도라에몽' 사러 편의점 가보니…“손 맛에 또”
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=01302166615797720
+********** title : '뽀로로·포켓몬·도라에몽' 캐릭터에 빠진 어린이 음료… "비싼 로열티에도 포기 못해"
+********** href : http://biz.newdaily.co.kr/news/article.html?no=10123013
+********** title : "도라에몽이 네 생일을 축하해!"…심형탁, '성공한 덕후' 인증샷
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201701051413621111&ext=na
+***** row : 10
+***** for page : 45
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=441
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [전일야화] '씬스틸러' 심형탁, 어쩔 수 없는 '도라에몽 덕후'
+********** href : http://www.xportsnews.com/?ac=article_view&entry_id=813967
+********** title : 심형탁 "도라에몽이 제일 싫어"
+********** href : http://app.yonhapnews.co.kr/YNA/Basic/SNS/r.aspx?c=PYH20170123118200013&did=1196m
+********** title : [강신우의 닥치Go]'도라에몽' 사러 편의점 가보니…“손 맛에 또”
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=01302166615797720
+********** title : '뽀로로·포켓몬·도라에몽' 캐릭터에 빠진 어린이 음료… "비싼 로열티에도 포기 못해"
+********** href : http://biz.newdaily.co.kr/news/article.html?no=10123013
+********** title : "도라에몽이 네 생일을 축하해!"…심형탁, '성공한 덕후' 인증샷
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201701051413621111&ext=na
+********** title : 소원을 말해봐! 세븐일레븐에서 도라에몽 친구들을 만나 보세요
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2016123115478042013&outlink=1
+********** title : [서곡숙의 문화톡톡] <도라에몽: 스탠바이미2> ― 이룰 수 없는 소망 충족을 위한 시간여행의 쾌락
+********** href : http://www.ilemonde.com/news/articleView.html?idxno=14703
+********** title : 세븐일레븐, 도라에몽 미니 피규어 판매
+********** href : http://it.chosun.com/news/article.html?no=2828742
+********** title : 세븐일레븐, '도라에몽' 피규어 10종 한정 판매
+********** href : http://www.newstomato.com/ReadNews.aspx?no=719905
+********** title : '극장판 도라에몽' 크리스마스 시즌 개봉 기념, 초대형 도라에몽 트리 등장
+********** href : http://tvdaily.co.kr/read.php3?aid=14822055681193328008
+***** row : 10
+***** for page : 46
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=451
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '키덜트 천국' 세븐일레븐, 도라에몽 피규어 단독 판매
+********** href : http://www.inews24.com/php/news_view.php?g_serial=998870&g_menu=022500&rrf=nv
+********** title : '극장판 도라에몽' 크리스마스 시즌 개봉 기념, 초대형 도라에몽 트리 등장
+********** href : http://tvdaily.co.kr/read.php3?aid=14822055681193328008
+********** title : [포토] 성공한 덕후 심형탁 "반가워 도라에몽"
+********** href : http://www.newdaily.co.kr/news/article.html?no=330087
+********** title : '도라에몽 마니아' 심형탁, '도라에몽' 극장판 4편 연속 홍보대사..."징하네"
+********** href : http://www.sporbiz.co.kr/news/articleView.html?idxno=57167
+********** title : '성공한 덕후' 심형탁, 4편 연속 '도라에몽' 홍보대사에
+********** href : http://www.sportsworldi.com/content/html/2016/12/04/20161204001674.html?OutUrl=naver
+********** title : '오늘 무해' 공효진, 짐싸기부터 멘붕‥도라에몽 주머니 뺨치는 만물상
+********** href : https://www.newsen.com/news_view.php?uid=202110131310000010
+********** title : 심형탁이 사랑한 도라에몽, 극장판 겨울방학 최초 개봉
+********** href : http://www.whitepaper.co.kr/news/articleView.html?idxno=77411
+********** title : ‘진짜 사나이’ 심형탁, 11m 활강훈련에서 부르짖은 것은… 도라에몽과 조카들
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0011064330&code=61181711&cp=nv
+********** title : ‘진짜사나이’ 심형탁-김보성, 도라에몽으로 대동단결…‘관심 집중’
+********** href : http://www.topstarnews.net/detail.php?number=222543
+********** title : “덕심이 또”… ‘진짜사나이’ 심형탁, 도라에몽과 입대
+********** href : http://sports.donga.com/3/all/20161023/80950952/1
+***** row : 10
+***** for page : 47
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=461
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 세븐일레븐 도라에몽 체험공간
+********** href : http://www.newsis.com/pict_detail/view.html?pict_id=NISI20161228_0012532728
+********** title : '극장판 도라에몽' 크리스마스 시즌 개봉 기념, 초대형 도라에몽 트리 등장
+********** href : http://tvdaily.co.kr/read.php3?aid=14822055681193328008
+********** title : [포토] 성공한 덕후 심형탁 "반가워 도라에몽"
+********** href : http://www.newdaily.co.kr/news/article.html?no=330087
+********** title : '도라에몽 마니아' 심형탁, '도라에몽' 극장판 4편 연속 홍보대사..."징하네"
+********** href : http://www.sporbiz.co.kr/news/articleView.html?idxno=57167
+********** title : '성공한 덕후' 심형탁, 4편 연속 '도라에몽' 홍보대사에
+********** href : http://www.sportsworldi.com/content/html/2016/12/04/20161204001674.html?OutUrl=naver
+********** title : '오늘 무해' 공효진, 짐싸기부터 멘붕‥도라에몽 주머니 뺨치는 만물상
+********** href : https://www.newsen.com/news_view.php?uid=202110131310000010
+********** title : 심형탁이 사랑한 도라에몽, 극장판 겨울방학 최초 개봉
+********** href : http://www.whitepaper.co.kr/news/articleView.html?idxno=77411
+********** title : ‘진짜 사나이’ 심형탁, 11m 활강훈련에서 부르짖은 것은… 도라에몽과 조카들
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0011064330&code=61181711&cp=nv
+********** title : ‘진짜사나이’ 심형탁-김보성, 도라에몽으로 대동단결…‘관심 집중’
+********** href : http://www.topstarnews.net/detail.php?number=222543
+********** title : “덕심이 또”… ‘진짜사나이’ 심형탁, 도라에몽과 입대
+********** href : http://sports.donga.com/3/all/20161023/80950952/1
+***** row : 10
+***** for page : 48
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=471
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [포토]"세븐일레븐에서 도라에몽 친구들을 만나 보세요"
+********** href : http://view.asiae.co.kr/news/view.htm?idxno=2016122810514774458
+********** title : '극장판 도라에몽' 크리스마스 시즌 개봉 기념, 초대형 도라에몽 트리 등장
+********** href : http://tvdaily.co.kr/read.php3?aid=14822055681193328008
+********** title : [포토] 성공한 덕후 심형탁 "반가워 도라에몽"
+********** href : http://www.newdaily.co.kr/news/article.html?no=330087
+********** title : '도라에몽 마니아' 심형탁, '도라에몽' 극장판 4편 연속 홍보대사..."징하네"
+********** href : http://www.sporbiz.co.kr/news/articleView.html?idxno=57167
+********** title : '성공한 덕후' 심형탁, 4편 연속 '도라에몽' 홍보대사에
+********** href : http://www.sportsworldi.com/content/html/2016/12/04/20161204001674.html?OutUrl=naver
+********** title : '오늘 무해' 공효진, 짐싸기부터 멘붕‥도라에몽 주머니 뺨치는 만물상
+********** href : https://www.newsen.com/news_view.php?uid=202110131310000010
+********** title : 심형탁이 사랑한 도라에몽, 극장판 겨울방학 최초 개봉
+********** href : http://www.whitepaper.co.kr/news/articleView.html?idxno=77411
+********** title : ‘진짜 사나이’ 심형탁, 11m 활강훈련에서 부르짖은 것은… 도라에몽과 조카들
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0011064330&code=61181711&cp=nv
+********** title : ‘진짜사나이’ 심형탁-김보성, 도라에몽으로 대동단결…‘관심 집중’
+********** href : http://www.topstarnews.net/detail.php?number=222543
+********** title : “덕심이 또”… ‘진짜사나이’ 심형탁, 도라에몽과 입대
+********** href : http://sports.donga.com/3/all/20161023/80950952/1
+***** row : 10
+***** for page : 49
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=481
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '오늘 무해' 공효진, 짐싸기부터 멘붕‥도라에몽 주머니 뺨치는 만물상
+********** href : https://www.newsen.com/news_view.php?uid=202110131310000010
+********** title : 심형탁이 사랑한 도라에몽, 극장판 겨울방학 최초 개봉
+********** href : http://www.whitepaper.co.kr/news/articleView.html?idxno=77411
+********** title : ‘진짜 사나이’ 심형탁, 11m 활강훈련에서 부르짖은 것은… 도라에몽과 조카들
+********** href : http://news.kmib.co.kr/article/view.asp?arcid=0011064330&code=61181711&cp=nv
+********** title : ‘진짜사나이’ 심형탁-김보성, 도라에몽으로 대동단결…‘관심 집중’
+********** href : http://www.topstarnews.net/detail.php?number=222543
+********** title : “덕심이 또”… ‘진짜사나이’ 심형탁, 도라에몽과 입대
+********** href : http://sports.donga.com/3/all/20161023/80950952/1
+********** title : 심형탁, 이제는 팩까지? 여전한 도라에몽 사랑…이게 바로 도라에몽 덕후의 길
+********** href : http://www.newspim.com/news/view/20161018000376
+********** title : '도라에몽 덕후' 심형탁, 마르지 않고 샘솟는 도라에몽 사랑
+********** href : http://www.spotvnews.co.kr/?mod=news&act=articleView&idxno=73576
+********** title : ‘비 오는 날에도 도라에몽 만나러 오세요’
+********** href : http://www.newsculture.press/view.htm?idxno=2016062501220083753
+********** title : ‘컬투쇼’ 심형탁 “박기량 보다 도라에몽이 좋다”
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201605041828003&sec_id=540101&pt=nv
+********** title : [Culture diary] 제주에 가면 도라에몽과 4차원 비밀도구가 있다
+********** href : http://sports.donga.com/3/all/20160502/77901550/3
+***** row : 10
+***** for page : 50
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=491
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '진짜사나이' 심형탁, 군대에도 도라에몽과 함께 '흠집날까 노심초사'
+********** href : http://tvdaily.co.kr/read.php3?aid=14772061401173077019
+********** title : 심형탁, 이제는 팩까지? 여전한 도라에몽 사랑…이게 바로 도라에몽 덕후의 길
+********** href : http://www.newspim.com/news/view/20161018000376
+********** title : '도라에몽 덕후' 심형탁, 마르지 않고 샘솟는 도라에몽 사랑
+********** href : http://www.spotvnews.co.kr/?mod=news&act=articleView&idxno=73576
+********** title : ‘비 오는 날에도 도라에몽 만나러 오세요’
+********** href : http://www.newsculture.press/view.htm?idxno=2016062501220083753
+********** title : ‘컬투쇼’ 심형탁 “박기량 보다 도라에몽이 좋다”
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201605041828003&sec_id=540101&pt=nv
+********** title : [Culture diary] 제주에 가면 도라에몽과 4차원 비밀도구가 있다
+********** href : http://sports.donga.com/3/all/20160502/77901550/3
+********** title : 도라에몽 , 100가지 비밀도구 들고 제주 상륙!
+********** href : http://www.jejusori.net/?mod=news&act=articleView&idxno=177217
+********** title : 심형탁, 제주서 열리는 도라에몽 특별전에 소장품 전시
+********** href : http://www.sportsseoul.com/news/read/386732
+********** title : '제주에 도라에몽 온다'…제주미니랜드서 비밀도구전
+********** href : http://news1.kr/articles/?2649013
+********** title : 도라에몽, 스타워즈 등…프로야구의 ‘덕후’ 마음 사로잡기
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201604111644003&sec_id=510201&pt=nv
+***** row : 10
+***** for page : 51
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=501
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘컬투쇼’ 심형탁 “박기량 보다 도라에몽이 좋다”
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201605041828003&sec_id=540101&pt=nv
+********** title : [Culture diary] 제주에 가면 도라에몽과 4차원 비밀도구가 있다
+********** href : http://sports.donga.com/3/all/20160502/77901550/3
+********** title : 도라에몽 , 100가지 비밀도구 들고 제주 상륙!
+********** href : http://www.jejusori.net/?mod=news&act=articleView&idxno=177217
+********** title : 심형탁, 제주서 열리는 도라에몽 특별전에 소장품 전시
+********** href : http://www.sportsseoul.com/news/read/386732
+********** title : '제주에 도라에몽 온다'…제주미니랜드서 비밀도구전
+********** href : http://news1.kr/articles/?2649013
+********** title : 도라에몽, 스타워즈 등…프로야구의 ‘덕후’ 마음 사로잡기
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201604111644003&sec_id=510201&pt=nv
+********** title : 롯데, 9일 시구자로 ‘도라에몽 마니아’ 심형탁
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201604081410003&sec_id=510201&pt=nv
+********** title : '어린이 팬 모여라' 롯데, 도라에몽과 콜라보레이션
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201603311306702229&ext=na
+********** title : '성공한 덕후' 도라에몽 감독 만난 배우 심형탁
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=253672
+********** title : 애니원 최장수 애니메이션 '도라에몽', 10년만에 성우 교체
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007582699&plink=ORI&cooper=NAVER
+***** row : 10
+***** for page : 52
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=511
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 심형탁, 도라에몽 100개와 함께 사진 “뒷모습만 봐도 뿌듯”
+********** href : http://www.newsculture.press/view.htm?idxno=2016050211280016860
+********** title : 비밀도구 들고 제주 찾은 '도라에몽'
+********** href : http://www.ajunews.com/view/20160429131304078
+********** title : 도라에몽, 스타워즈 등…프로야구의 ‘덕후’ 마음 사로잡기
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201604111644003&sec_id=510201&pt=nv
+********** title : 롯데, 9일 시구자로 ‘도라에몽 마니아’ 심형탁
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201604081410003&sec_id=510201&pt=nv
+********** title : '어린이 팬 모여라' 롯데, 도라에몽과 콜라보레이션
+********** href : http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201603311306702229&ext=na
+********** title : '성공한 덕후' 도라에몽 감독 만난 배우 심형탁
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=253672
+********** title : 애니원 최장수 애니메이션 '도라에몽', 10년만에 성우 교체
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007582699&plink=ORI&cooper=NAVER
+********** title : 도라에몽 목소리 10년만에 바뀐다…3대 성우는 채민지
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2016031115188010190&outlink=1
+********** title : 세븐일레븐, ‘도라에몽’ 맛있는 빵을 부탁해!
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2016030510228071115&outlink=1
+********** title : 세븐일레븐, ‘도라에몽빵’ 출시
+********** href : http://www.viva100.com/main/view.php?key=20160303010000811
+***** row : 10
+***** for page : 53
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=521
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 롯데, 토요일마다 도라에몽과 함께 한다
+********** href : http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=201603311430553&sec_id=510201&pt=nv
+********** title : '성공한 덕후' 도라에몽 감독 만난 배우 심형탁
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=253672
+********** title : 애니원 최장수 애니메이션 '도라에몽', 10년만에 성우 교체
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007582699&plink=ORI&cooper=NAVER
+********** title : 도라에몽 목소리 10년만에 바뀐다…3대 성우는 채민지
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2016031115188010190&outlink=1
+********** title : 세븐일레븐, ‘도라에몽’ 맛있는 빵을 부탁해!
+********** href : http://www.moneyweek.co.kr/news/mwView.php?type=1&no=2016030510228071115&outlink=1
+********** title : 세븐일레븐, ‘도라에몽빵’ 출시
+********** href : http://www.viva100.com/main/view.php?key=20160303010000811
+********** title : 심형탁 도라에몽 팬티 공개…아이 같은 마음 되찾는 방법
+********** href : http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201602140006
+********** title : ‘도라에몽’ 덕후능력시험
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=248976
+********** title : 종이컵 3개로 만든 '도라에몽'·'원펀맨' 애니메이션
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=246805
+********** title : 애니원, 도라에몽 시리즈 최신작 '신 도라에몽 8기' 18일 첫 방송
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007418322&plink=ORI&cooper=NAVER
+***** row : 10
+***** for page : 54
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=531
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 세븐일레븐, ‘도라에몽빵’ 출시
+********** href : http://www.viva100.com/main/view.php?key=20160303010000811
+********** title : 심형탁 도라에몽 팬티 공개…아이 같은 마음 되찾는 방법
+********** href : http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201602140006
+********** title : ‘도라에몽’ 덕후능력시험
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=248976
+********** title : 종이컵 3개로 만든 '도라에몽'·'원펀맨' 애니메이션
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=246805
+********** title : 애니원, 도라에몽 시리즈 최신작 '신 도라에몽 8기' 18일 첫 방송
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007418322&plink=ORI&cooper=NAVER
+********** title : 11번가 연초부터 키덜트 공략…‘무민 향수’ ‘도라에몽 쿠션’ ‘원숭이 나노블럭’ 등 할인
+********** href : http://www.ajunews.com/view/20160106175542589
+********** title : 만년 백수 역할 심형탁, 도라에몽 덕후 "눈물이 흘렀다"
+********** href : http://www.segye.com/content/html/2015/12/24/20151224003312.html?OutUrl=naver
+********** title : 나뚜루팝, '도라에몽 쿠션' 3천원 프로모션 진행
+********** href : http://www.joseilbo.com/news/news_read.php?uid=281732&class=17&grp=
+********** title : [주말에 뭐볼까?] '분노의 질주9' '도라에몽2' '토토리' 이번주 개봉작3
+********** href : http://www.ajunews.com/view/20210521180950448
+********** title : 화장품업계, DIY블록·아톰·도라에몽 '홀리데이 마케팅'
+********** href : http://www.seoulfn.com/news/articleView.html?idxno=241573
+***** row : 10
+***** for page : 55
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=도라에몽&start=541
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 종이컵 3개로 만든 '도라에몽'·'원펀맨' 애니메이션
+********** href : http://www.wikitree.co.kr/main/news_view.php?id=246805
+********** title : 애니원, 도라에몽 시리즈 최신작 '신 도라에몽 8기' 18일 첫 방송
+********** href : https://ent.sbs.co.kr/news/article.do?article_id=E10007418322&plink=ORI&cooper=NAVER
+********** title : 11번가 연초부터 키덜트 공략…‘무민 향수’ ‘도라에몽 쿠션’ ‘원숭이 나노블럭’ 등 할인
+********** href : http://www.ajunews.com/view/20160106175542589
+********** title : 만년 백수 역할 심형탁, 도라에몽 덕후 "눈물이 흘렀다"
+********** href : http://www.segye.com/content/html/2015/12/24/20151224003312.html?OutUrl=naver
+********** title : 나뚜루팝, '도라에몽 쿠션' 3천원 프로모션 진행
+********** href : http://www.joseilbo.com/news/news_read.php?uid=281732&class=17&grp=
+********** title : [주말에 뭐볼까?] '분노의 질주9' '도라에몽2' '토토리' 이번주 개봉작3
+********** href : http://www.ajunews.com/view/20210521180950448
+********** title : 화장품업계, DIY블록·아톰·도라에몽 '홀리데이 마케팅'
+********** href : http://www.seoulfn.com/news/articleView.html?idxno=241573
+********** title : 나뚜루팝, 연말맞이 ‘도라에몽 쿠션’ 이벤트 실시
+********** href : http://www.breaknews.com/sub_read.html?uid=418159§ion=sc3
+********** title : 나뚜루팝, 연말 ‘도라에몽 쿠션’ 프로모션 진행
+********** href : http://view.asiae.co.kr/news/view.htm?idxno=2015122010563702482
+********** title : '마리와 나' 심형탁, 그의 '도라에몽 사랑'…"日프로듀서도 혀를 내둘러!"
+********** href : https://n.news.naver.com/mnews/article/011/0002776798?sid=106
+***** row : 10

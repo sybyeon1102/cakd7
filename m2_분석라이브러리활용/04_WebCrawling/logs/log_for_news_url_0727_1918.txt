@@ -1,0 +1,7 @@
+***** for page : 1
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=진청아&start=1
+********** status_code : 200
+********** keyword not found
+***** row : None
+***** fail to get titles and links from : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=진청아&start=1
+***** get only 0 rows.
