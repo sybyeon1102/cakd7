@@ -1,0 +1,326 @@
+<!-- 출처 : https://news.v.daum.net/v/20220720143032241 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>軍 코로나19 신규확진 1489명.. '3개월래 최다'</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+        window.onload = function () {
+            let dropNav = document.getElementById('drop-nav');
+            let hidden = true;
+            dropNav.onclick = function () {
+                if (hidden) {
+                    $('#nav-bar').show();
+                    hidden = false;
+                }
+                else {
+                    $('#nav-bar').hide();
+                    hidden = true;
+                }
+            };
+        }
+    </script>
+    <style>
+        #page {
+            width: 100%;
+        }
+        /************헤더********************************************/
+        .header {
+            height: 40px;
+            margin: 5px;
+        }
+        .header-logoHome {
+            float: left;
+            position: relative;
+        }
+        #toHome > a > img {
+            width: 28px;
+            height: 28px;
+            padding: 5px 0px 5px 5px;
+        }
+        #toNews > a {
+            text-decoration: none;
+            line-height: 30px;
+            height: 30px;
+            width: 50px;
+            top: 5px;
+            text-align: center;
+            color: black;
+            position: absolute;
+            font-size: 20px;
+            font-weight: bolder;
+        }
+        #toPolitics > a{
+            text-decoration: none;
+            text-align: center;
+            color: gray;
+            font-size: 18px;
+            top: 5px;
+            position: absolute;
+            left: 80px;
+            width: 50px; height: 30px;
+            line-height: 30px;
+        }
+        #drop-nav {
+            float: right;
+            position: absolute;
+            right: 15px; top: 12px;
+            width: 30px; height: 30px;
+            line-height: 30px;
+            text-align: center;
+            border: 1px solid rgb(206, 206, 206);
+            border-radius: 10px;
+            box-shadow: 1px 1px 5px gainsboro;
+            background-color: rgb(235, 235, 235);
+            color: whitesmoke;
+            text-shadow: 1px 1px 5px gray;
+        }
+        #drop-nav:active {
+            background-color: rgb(206, 206, 206);
+            color: white;
+        } 
+
+        /************ 네비게이션 바********************************************/
+        #nav-bar {
+            left: 0px; top: 5px;
+            position: relative;
+            height: 30px;
+            border: solid white;
+            overflow: hidden;
+            display: none;
+        }
+        .menu > a {
+            float: left;
+            padding: 10px;
+            font-size: 14px;
+            color: gray;
+            text-decoration: none;
+        }
+        .selected > a {
+            color: blue;
+        }
+
+        /************기사*********************************************/
+        #article {
+            border: 2px solid white;
+        }
+        /************기사 헤더************/
+        #article-header {
+            border: 1px solid white;
+        }
+        #article-title {
+            color: black;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        #reporter {
+            color: grey;
+            font-size: 16px;
+        }
+        #datetime {
+            color: gainsboro;
+            font-size: 12px;
+        }
+
+        /************기사본문************/
+        #article-contents {
+            overflow: hidden;
+        }
+        .article-sum {
+            padding: 0px 30px;
+        }
+        .article-photo {
+            width: 100%;
+        }
+        .article-photo-caption {
+            color: gray;
+            font-size: 12px;
+        }
+        .article-text {
+            font-size: 16px;
+        }
+
+        /************평가*********************************************/
+        #emotion {
+            border: 1px;
+        }
+        #emotion-ask {
+            font-size: 12px;
+            text-align: center;
+            width: auto;
+            position: relative;
+            top: -18px;      
+        }
+        #emotion-ask-text {
+            background-color: white;
+            padding: 5px;
+        }
+        #emotion-emoji {
+            position: relative;
+            text-align: center;
+        }
+        .emotion-emoji-box {
+            border: 1px solid white;
+            width: 50px;
+            display: inline-block;            
+        }
+        .emotion-emoji-box > img {
+            height: 40px; width: 40px;
+            padding: 5px;
+        }
+        .emotion-emoji-box > div {
+            font-size: 12px;
+            color: rgb(153, 153, 153);
+            text-align: center;
+        }
+        .emotion-emoji-box > p {
+            font-size: 12px;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        /************꼬리*********************************************/
+        #footer {
+            text-align: center;
+            background-color: rgb(235, 235, 235);
+        }
+        #footer-menu {
+            font-size: 12px;
+        }
+        #footer-copyright {
+            font-size: 10px;
+            color: rgb(197, 197, 197);
+        }
+    </style>
+</head>
+
+
+
+
+
+
+
+
+<body>
+    <div id="page">
+        <div class="header">
+            <div class="header-logoHome">
+                <span id="toHome">
+                    <a href="https://www.daum.net/"><img src="image/daum.png"></a>
+                </span>
+                <span id="toNews">
+                    <a href="https://news.daum.net/">뉴스</a>
+                </span>
+                <span id="toPolitics">
+                    <a href="https://news.daum.net/politics/">정치</a>
+                </span>       
+            </div>
+            <button id="drop-nav">▼</button>
+        </div>
+
+
+
+        <div id="nav-bar">
+            <span class="menu"><a href="https://www.daum.net/">홈</a></span>
+            <span class="menu"><a href="https://news.daum.net/society/">사회</a></span>
+            <span class="menu selected"><a href="https://news.daum.net/politics/">정치</a></span>
+            <span class="menu"><a href="https://news.daum.net/economic/">경제</a></span>
+            <span class="menu"><a href="https://news.daum.net/foreign/">국제</a></span>
+            <span class="menu"><a href="https://news.daum.net/culture/">문화</a></span>
+            <span class="menu"><a href="https://news.daum.net/digital/">IT</a></span>
+            <span class="menu"><a href="https://news.daum.net/series">연재</a></span>
+            <span class="menu"><a href="https://news.daum.net/photo">포토</a></span>
+            <span class="menu"><a href="https://focus.daum.net/ch/news/factcheck">팩트체크</a></span>
+        </div>
+        <hr>
+
+
+
+        <div id="article">
+            <div id="article-header">
+                <img src="image/news1.jpg" height="20px">
+                <div id="article-title">軍 코로나19 신규확진 1489명.. '3개월래 최다'</div>
+                <br>
+                <div id="reporter">박응진 기자</div>
+                <div id="datetime">입력 2022.07.20. 14:30</div>
+            </div>
+            <br>
+            <div id="article-contents">
+                <p class="article-sum"><b>|</b> 19일 1384명 이어 이틀 연속 네 자릿수 증가</p>
+                <img class="article-photo" src="image/군장병.jpg">
+                <figcaption class="article-photo-caption">군 장병. 2022.4.30/뉴스1 © News1 박세연 기자</figcaption>
+                <div class="article-text">
+                    <p>(서울=뉴스1) 박응진 기자 = 군에서 최근 하루 새 1489명의 신종 코로나바이러스 감염증(코로나19) 확진자가 새로 보고됐다.</p>
+                    <p>국방부는 20일 오후 2시 기준 군내 코로나19 누적 확진자 수가 19만1997명이라며 이같이 밝혔다. 이들 누적 확진자 가운데 현재 치료·관리 중인 인원은 6598명이다.</p>
+                    <!-- 광고 -->
+                    <p>이날 보고된 군내 코로나19 일일 신규 확진자 1489명은 지난 4월20일(1974명) 이후 3개월 래 최다치다.</p>
+                    <p>이는 국내에서 신종 코로나바이러스 오미크론 변이 'BA.5'가 빠르게 확산하고 있는 상황과 관련이 있어 보인다.</p>
+                    <p>군내 일일 확진자 수는 이달 13일 1102명을 기록한 이후 1000명 안팎을 오르내리다 19일 1384명을 기록한 데 이어 이날 다시 1400명대로 네 자릿수 증가세를 유지했다.</p>
+                    <p>이날 보고된 코로나19 신규 확진자 수를 군별로 보면 육군이 989명으로 가장 많다.</p>
+                    <p>이어 공군 209명, 해군 126명, 해병대 105명, 국방부 직할부대 50명, 한미연합사령부 7명, 합동참모본부 2명, 국방부 1명의 확진자가 추가로 나왔다.</p>
+                    <p>pej86@news1.kr</p>
+                    <p>Copyright ⓒ 뉴스1코리아 www.news1.kr 무단복제 및 전재 – 재배포금지</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div id="emotion">
+            <hr>
+            <div id="emotion-ask">
+                <span></span>
+                <span id="emotion-ask-text">이 기사에 대해 어떻게 생각하시나요?</span>
+                <span></span>
+            </div>
+            <div id="emotion-emoji">
+                <div class="emotion-emoji-box">
+                    <img src="image/추천.png">
+                    <div>추천해요</div>
+                    <p>2</p>
+                </div>
+                <div class="emotion-emoji-box">
+                    <img src="image/좋음.png">
+                    <div>좋아요</div>
+                    <p>0</p>
+                </div>
+                <div class="emotion-emoji-box">
+                    <img src="image/감동.png">
+                    <div>감동이에요</div>
+                    <p>0</p>
+                </div>
+                <div class="emotion-emoji-box">
+                    <img src="image/화남.png">
+                    <div>화나요</div>
+                    <p>10</p>
+                </div>
+                <div class="emotion-emoji-box">
+                    <img src="image/슬픔.png">
+                    <div>슬퍼요</div>
+                    <p>0</p>
+                </div>
+            </div>
+            <br>
+
+
+            
+            <div id="footer">
+                <br>
+                <div id="footer-menu">Daum | 로그인 | PC화면 | 전체보기</div>
+                <br>
+                <div id="footer-copyright">
+                    서비스원칙 · 게시물 운영원칙 · 24시간 뉴스센터
+                    <br>
+                    기사배열책임자 : 황유지 · 청소년보호책임자 : 정현주
+                    <br>
+                    © Kakao Corp.
+                </div>
+                <br>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>

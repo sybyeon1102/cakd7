@@ -1,0 +1,189 @@
+<!-- https://news.v.daum.net/v/20220720143032241 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>軍 코로나19 신규확진 1489명.. '3개월래 최다'</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+        window.onload = function () {
+            let dropNav = document.getElementById('drop-nav');
+            let hidden = true;
+            dropNav.onclick = function () {
+                if (hidden) {
+                    $('#nav-bar').show();
+                    hidden = false;
+                }
+                else {
+                    $('#nav-bar').hide();
+                    hidden = true;
+                }
+                
+            };
+        }
+    </script>
+    <style>
+        /*헤더*/
+        .header {
+            height: 40px;
+            margin: 5px;
+        }
+        .header-logoHome {
+            float: left;
+            position: relative;
+        }
+        #toHome > a > img {
+            width: 28px;
+            height: 28px;
+            padding: 5px 0px 5px 5px;
+        }
+        #toNews > a {
+            text-decoration: none;
+            line-height: 30px;
+            height: 30px;
+            width: 50px;
+            top: 5px;
+            text-align: center;
+            color: black;
+            position: absolute;
+            font-size: 20px;
+            font-weight: bolder;
+        }
+        #toPolitics > a{
+            text-decoration: none;
+            text-align: center;
+            color: gray;
+            font-size: 18px;
+            top: 5px;
+            position: absolute;
+            left: 80px;
+            width: 50px; height: 30px;
+            line-height: 30px;
+        }
+        #drop-nav {
+            float: right;
+            position: absolute;
+            right: 15px; top: 12px;
+            width: 30px; height: 30px;
+            line-height: 30px;
+            text-align: center;
+            border: 1px solid rgb(206, 206, 206);
+            border-radius: 10px;
+            box-shadow: 1px 1px 5px gainsboro;
+            background-color: rgb(235, 235, 235);
+            color: whitesmoke;
+            text-shadow: 1px 1px 5px gray;
+        }
+        #drop-nav:active {
+            background-color: red;
+            color: white;
+        } 
+
+        /* 네비게이션 바 */
+        #nav-bar {
+            left: 0px; top: 5px;
+            position: relative;
+            height: 30px;
+            border: solid white;
+            overflow: hidden;
+            display: none;
+        }
+        .menu > a {
+            float: left;
+            padding: 10px;
+            font-size: 14px;
+            color: gray;
+            text-decoration: none;
+        }
+        .menu > a:hover {
+            background-color: gray;
+            color: whitesmoke;
+            border-radius: 5px;
+        }
+
+        /*기사 부분*/
+        #article {
+            border: 2px solid blue;
+        }
+        /*기사 헤더*/
+        #article-header {
+            background-color: aqua;
+            border: 1px solid red;
+        }
+        #article-title {
+            color: black;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        #reporter {
+            color: grey;
+            font-size: 16px;
+        }
+        #datetime {
+            color: gainsboro;
+            font-size: 12px;
+        }
+
+        /*기사본문*/
+        #article-contents {
+
+        }
+
+    </style>
+</head>
+
+
+
+
+
+
+
+
+<body>
+    <div class="header">
+        <div class="header-logoHome">
+            <span id="toHome">
+                <a href="#"><img src="image/daum.png"></a>
+            </span>
+            <span id="toNews">
+                <a href="#">뉴스</a>
+            </span>
+            <span id="toPolitics">
+                <a href="#">정치</a>
+            </span>       
+        </div>
+        <button id="drop-nav">▼</button>
+    </div>
+    <div id="nav-bar">
+        <span class="menu"><a href="#">홈</a></span>
+        <span class="menu"><a href="#">사회</a></span>
+        <span class="menu"><a href="#">정치</a></span>
+        <span class="menu"><a href="#">경제</a></span>
+        <span class="menu"><a href="#">국제</a></span>
+        <span class="menu"><a href="#">문화</a></span>
+        <span class="menu"><a href="#">IT</a></span>
+        <span class="menu"><a href="#">연재</a></span>
+        <span class="menu"><a href="#">포토</a></span>
+        <span class="menu"><a href="#">팩트체크</a></span>
+    </div>
+    <hr>
+    <br>
+    <div id="article">
+        <div id="article-header">
+            <img src="image/news1.jpg" height="20px">
+            <div id="article-title">軍 코로나19 신규확진 1489명.. '3개월래 최다'</div>
+            <br>
+            <div id="reporter">박응진 기자</div>
+            <div id="datetime">입력 2022.07.20. 14:30</div>
+        </div>
+        <br>
+        <div id="article-contents">
+            
+        </div>
+    </div>
+
+    
+</body>
+</html>
