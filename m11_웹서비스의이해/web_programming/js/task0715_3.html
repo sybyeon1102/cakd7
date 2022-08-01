@@ -1,0 +1,75 @@
+<!-- 시계 디스플레이 꾸미기 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock</title>
+    <script>
+        window.onload = function () {
+            let clock = document.getElementById('clock');
+            let time = document.getElementById('time');
+            let song = document.getElementById('song');
+            let box = document.getElementById('box');
+            let count = 0;
+
+            setInterval(function () {
+                box.style.color = 'rgb(50,50,50)'
+                // 날짜
+                let now = new Date();
+                clock.innerHTML = now.getFullYear() + '년 ' 
+                + (now.getMonth() + 1) + '월 '
+                + now.getDate() + '일';
+
+                // 시간
+                time.innerHTML = now.getHours() + '시 ' 
+                + now.getMinutes() + '분 '
+                + now.getSeconds() + '초';
+
+                //노래
+                if (count%4 == 0){
+                    song.innerHTML = "시계는..";
+                    song.style.color = 'rgb(210, 150, 150)';
+                }
+                else if (count%4 == 1) {
+                    song.innerHTML = "아침부터...";
+                    song.style.color = 'rgb(220, 100, 100)';
+                }
+                else if (count%4 == 2) {
+                    song.innerHTML = "똑딱....";
+                    song.style.color = 'rgb(230, 50, 50)';
+                }
+                else {
+                    song.innerHTML = "똑딱!!!!";
+                    song.style.color = 'rgb(255, 0, 0)';
+                }
+                count++;
+
+            }, 1000);
+
+            box.style.width = '500px'
+            box.style.height = '400px'
+            box.style.border = '3px solid red';
+            box.style.lineHeight = '100px'
+            box.style.textAlign = 'center'
+            box.style.borderRadius = '40px'
+            box.style.fontFamily = "Serif"
+            box.style.color = 'rgb(200,200,200)'
+            box.style.backgroundColor = 'yellow'
+
+
+            setInterval(function () {
+
+            }, 800)
+        };
+    </script>
+</head>
+<body>
+    <div id="box">
+        <h1 id="clock"></h1>
+        <h1 id="time">시계</h1>
+        <h1 id="song">노래 시작!</h1>
+    </div>
+</body>
+</html>

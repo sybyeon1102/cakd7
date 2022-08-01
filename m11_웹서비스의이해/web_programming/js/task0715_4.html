@@ -1,0 +1,40 @@
+<!--p 358고전 이벤트를 사용한 사례 작성-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        window.onload = function () {
+            let button = document.getElementById('button');
+            let box = document.getElementById('box');
+            let count = 0;
+
+            button.style.width = '350px';
+            button.style.height = '200px';
+            button.style.fontSize = '100px';
+
+            button.onclick = function () {
+                let interval = setInterval(function () {
+                    document.write('ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ'
+                    +'ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ'
+                    +'ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ'
+                    +'ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ</br>');
+                    count++;
+                    if (count > 100) {
+                        clearInterval(interval);
+                        alert('끝');
+                    }
+                }, 100);
+            };
+
+        };
+    </script>
+</head>
+<body>
+    <button id="button">버튼!</button>
+
+</body>
+</html>

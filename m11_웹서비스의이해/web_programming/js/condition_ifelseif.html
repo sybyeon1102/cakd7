@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condition</title>
+    <script>
+        var date = new Date();
+        var hour = date.getHours()
+
+        console.log(hour)
+
+        if (hour < 7) {
+            console.log('잠');
+        }
+        else if (hour < 9){
+            console.log('등원');
+        }
+        else if (hour < 13) {
+            console.log('수업');
+        }
+        else if (hour < 14) {
+            console.log('점심');
+        }
+        else if (hour < 18) {
+            console.log('자습');
+        }
+        else {
+            console.log('개인시간');
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

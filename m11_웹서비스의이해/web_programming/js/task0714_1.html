@@ -1,0 +1,76 @@
+<!--조건문(if, else if, else) 사용하여 백만원의 예산으로 쇼핑하는 스토리 만들기-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>조건문</title>
+    <script>
+        //돈 단위는 만원
+        
+        var budget = 100;
+        var balance = budget;
+        var product = {
+            coat: 200,
+            bicycle: 50,
+            nintendo: 40,
+            animalCrossing: 5,
+            airpodsPro: 30,
+            book: 1
+        }
+        
+        console.log(budget+'만원 받았다.')
+        if (balance >= product.coat) { // 200이상
+            balance -= product.coat;
+            console.log('코트를 샀다.');
+        }
+        else if (balance >= product.bicycle) { // 50이상 200미만
+            balance -= product.bicycle;
+            console.log('코트는 못 샀지만, 자전거를 샀다.');
+            if (balance >= product.nintendo) { //90이상 200 미만
+                balance -= product.nintendo;
+                if (balance >= 5) { //95이상 200미만
+                    balance -= product.animalCrossing;
+                    console.log('닌텐도도 사고, 동숲도 샀다.');
+                    // 에어팟삼
+                    //에어팟 못삼 -> 책 삼/ 못삼
+                    if (balance >= product.airpodsPro){ //125이상 200미만
+                        balance -= product.airpodsPro;
+                        console.log('에어팟을 샀다.');
+                    }
+                    else { //95이상 125미만
+                        if (balance >= product.book) { //96이상 125미만
+                            balance -= product.book;
+                            console.log('에어팟은 못 샀지만 책은 샀다.');
+                        }
+                        else { // 딱 95
+                            console.log('에어팟도 책도 못 샀다.');
+                        }
+                    }
+                }
+                else { //90이상 95미만
+                    console.log('닌텐도는 샀는데, 동숲은 못 샀다.');
+                }
+            }
+            else {
+                console.log('닌텐도는 못 샀다.');
+            }
+        }
+        else { //예산 50미만
+            console.log('코트도 자전거도 못샀다.');
+            if ( balance >= product.nintendo) { // 예산 40이상 50 미만
+                balance -= product.nintendo;
+                console.log('닌텐도를 샀다.');
+            }
+            else { //예산 40 미만
+                console.log('아무것도 못 샀다.')
+            }
+        }
+        console.log(balance+'만원 남았다.');
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

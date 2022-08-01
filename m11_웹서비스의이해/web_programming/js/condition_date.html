@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condition</title>
+    <script>
+        var date = new Date();
+
+        var month = date.getMonth() + 1;
+
+        console.log(month)
+
+        if (month <= 2 || month >= 12) {
+            console.log('winter');
+        }
+        else if (month <= 5) {
+            console.log('spring');
+        }
+        else if (month <= 8) {
+            console.log('summer');
+        }
+        else {
+            console.log('fall')
+        }
+
+        var hour = date.getHours()
+
+        console.log(hour)
+
+        if (hour < 12) {
+            console.log('오전');
+        }
+        else {
+            console.log('오후');
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

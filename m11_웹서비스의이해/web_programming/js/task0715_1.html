@@ -1,0 +1,31 @@
+<!--p342 name 속성으로 여러개 문서객체 선택 사례 작성-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        window.onload = function () {
+            let headers = document.getElementsByName('header');
+
+            for  (var i = 0; i < headers.length; i++) {
+
+                var header = headers[i];
+
+                header.style.color = 'orange';
+                header.style.background = 'red';
+                header.innerHTML = 'From JS';
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1 name="header">Header</h1>
+    <h1 name="header">Header</h1>
+    <h1 name="header">Header</h1>
+    <h1 name="header">Header</h1>
+
+</body>
+</html>
