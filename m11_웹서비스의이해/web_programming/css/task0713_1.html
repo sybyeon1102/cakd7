@@ -1,0 +1,88 @@
+<!--위치 속성 공식의 사례를 만들어서 설명하세요. p192~200-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position</title>
+    <style>
+        .container {
+            width: 500px; height: 120px;
+            border: 2px solid black;
+            position: relative;
+        }
+        .box {
+            background-color: plum;
+            border: 1px solid black;
+            width: 100px; height: 100px;
+            position: absolute;
+        }
+        .box:nth-child(1) {
+            left: 20px; top: 10px;
+        }
+        .box:nth-child(2) {
+            left: 140px; top: 10px;
+        }
+        .box:nth-child(3) {
+            left: 260px; top: 10px;
+        }
+        .box:nth-child(4) {
+            left: 380px; top: 10px;
+            background-color: azure !important;
+        }
+        .circle {
+            width: 30px; height: 30px;
+            border-radius: 50% 50%;
+            border: 1px solid black;
+            position: absolute;
+        }
+        .c1 {
+            left: 10px; top: 10px;
+        }
+        .c2 {
+            right: 10px; top: 10px;
+        }
+        .c3 {
+            right: 10px; bottom: 10px;
+        }
+        .c4 {
+            left: 10px; bottom: 10px;
+        }
+
+        .c4:active {
+            background-color: blue;
+        }
+        .fixed {
+            background-color: black;
+        }
+        .select {
+            background-color: aquamarine;
+        }
+        .select:hover {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>
+            Q. 마지막 네모 칸안에 들어갈 원의 위치로 맞는 것을 고르시오?
+        </h3>
+    </div>
+    <div class="container">
+        <div class="box"><div class="circle c1 fixed"></div></div>
+        <div class="box"><div class="circle c2 fixed"></div></div>
+        <div class="box"><div class="circle c3 fixed"></div></div>
+        <div class="box">
+            <div class="circle c1 select"></div>
+            <div class="circle c2 select"></div>
+            <div class="circle c3 select"></div>
+            <a href="#">
+                <div class="circle c4 select"></div>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

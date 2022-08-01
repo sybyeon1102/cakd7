@@ -1,0 +1,289 @@
+<!--어제 만든 웹(0712_1)에 css 추가로 하기-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>요리블로거의 요리블로그</title>
+    <!-- 초기화 -->
+    <style>
+        * { 
+            margin: 0; padding: 0;
+            font-family: '맑은 고딕', 'Malgun Gothic', Gothic, sans-serif;
+        }
+        a { text-decoration: none; }
+        li { list-style: none; }
+    </style>
+    <!-- 기본 클래스 -->
+    <style>
+        .pull-left { float: left; }
+        .pull-right { float:right; }
+    </style>
+    <!-- 페이지 : 전체 -->
+    <style>
+        body {
+            width: 960px; margin: 0 auto;
+            background: #e2fbff;
+        }
+
+        #page-wrapper {
+            background: rgb(255, 247, 247);
+            margin: 40px 0; padding: 10px 20px;
+            border-radius: 50px;
+            border: 3px dotted orange;
+            box-shadow: 10px 10px 10px red;
+        }
+    </style>
+    <!-- 헤더-->
+    <style>
+        #main-header { padding: 40px 50px; }
+        .master-title { /*요리블로거의 요리블로그*/
+            font-size: 30px; 
+            color: #181818;
+            margin: 20px 0px;
+            text-shadow: 10px 10px 10px gray;
+        }
+        .master-description { /*요리블로거(yoribloger)/ 쿠킹스튜디오대여*/
+            font-size: 15px; font-weight: 500;
+            color: #383838;
+        }
+    </style>
+    <!-- 네비게이션 -->
+    <style>
+        #main-navigation {
+            border-top: 1px solid #C8C8C8;
+            border-bottom: 1px solid #C8C8C8;
+            margin-bottom: 20px;
+            height: 40px;
+        }
+        .outer-menu-item {
+            float: left;
+            position: relative;
+        }
+        .outer-menu-item:hover {
+            background: rgb(255, 108, 132);
+            color: white
+        }
+
+        .menu-title {
+            display: inline-block;
+            height: 30px; line-height: 30px;
+            text-align: center;
+            padding: 5px 20px;
+        }
+    </style>
+    <!-- 네비게이션 내부의 검색 -->
+    <style>
+        .search-bar {
+            height: 26px;
+            padding: 7px;
+        }
+        .input-search {
+            display: block;
+            float: left;
+
+            background-color: #FFFFFF;
+            border: 1px solid #CCCCCC;
+            border-radius: 30px 0 0 10px; /*좌상부터 시계방향*/
+            width: 120px; height: 24px;
+            padding: 0 0 0 10px;
+            font-size: 12px;
+            color: #000000;
+        }
+
+        .input-search:focus {
+            border-color: rgba(82, 168, 236, 0.8);
+            outline: 0;
+            border: 3px dotted plum;
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+        }
+
+        .input-search-submit {
+            display: block;
+            float: left;
+
+            width: 50px; height: 26px;
+            border-radius: 0 30px 10px 0;
+            border: 1px solid #CCCCCC;
+
+            /*search bar와 겹쳐지라고*/
+            margin-left: -1px;
+ 
+            display: inline-block;
+        }
+        .input-search-submit:active {
+            background-color: black;
+            color: #FFFFFF;
+        }
+    </style>
+    <!-- 중앙 내용 -->
+    <style>
+        /* body 태그의 너비: 960픽셀 */
+        /* #page-wrapper 태그의 padding 속성으로 내용물 너비는 920픽셀 */
+        #content { overflow: hidden; }
+
+        #main-section {
+            float: left;
+            width: 710px;
+        }
+        #main-aside {
+            float: right;
+            width: 200px;
+        }
+    </style>
+    <!-- 좌측 내용물 -->
+    <style>
+        article { 
+            padding: 0 10px 20px 10px;
+            border-bottom: 3px solid rgb(255, 30, 225);
+        }
+
+        .article-header { padding: 20px 0; }
+        .article-title { 
+            font-size: 25px;
+            font-weight: 500; 
+            padding-bottom: 10px;
+        }
+        .article-date { font-size: 13px; }
+        .article-body {
+            font-size: 14px;
+            color: rgb(63, 204, 63);
+        }
+
+    </style>
+    <!-- 우측 구성 -->
+    <style>
+        .aside-list { padding: 10px 0 30px 0; }
+        .aside-list > h3 {
+            font-size: 15px;
+            font-weight: 600;
+            color: skyblue;
+        }
+        .aside-list li a {
+            margin-left: 8px;
+            font-size: 13px;
+            color: #57a0ff;
+        }
+    </style>
+    <!--꼬리말-->
+    <style>
+        #main-footer {font-size: 15px;}
+        .naver {
+            font-weight: bolder;
+            color: #00ec00;
+            text-shadow: 5px 5px 5px rgb(219, 219, 219);
+        }
+        .naver:hover {
+            color: blue;
+        }
+        .naver:active {
+            color: red;
+        }
+        .refer {
+            color: #CCCCCC;
+            font-style: italic;
+        }
+        .reflink:hover {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="page-wrapper">
+        <header id="main-header">
+            <hgroup>
+                <h1 class="master-title">요리블로거의 요리블로그</h1>
+                <h2 class="master-description">요리블로거(yoribloger)/ 쿠킹스튜디오대여</h2>
+            </hgroup>
+        </header>
+        <nav id="main-navigation">
+            <div class="pull-left">
+                <ul class="outer-menu">
+                    <li class="outer-menu-item">
+                        <span class="menu-title">prologue</span>
+                    </li>
+                    <li class="outer-menu-item">
+                        <span class="menu-title">blog</span>
+                    </li>
+                    <li class="outer-menu-item">
+                        <span class="menu-title">요리블로거의 요리</span>
+                    </li>
+                    <li class="outer-menu-item">
+                        <span class="menu-title">쿠킹스튜디오</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="pull-right">
+                <div class="search-bar">
+                    <form>
+                        <input type="text" class="input-search" />
+                        <input type="submit" class="input-search-submit" value="검색" />
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <div id="content">
+            <section id="main-section">
+                <article>
+                    <div class="article-header">
+                        <h1 class="article-title">돼지고기 간장불고기 쌈장 친목도모 텃밭 소풍</h1>
+                        <p class="article-date">2022. 06. 29. 19:43</p>
+                    </div>
+                    <div class="article-body">
+                        <p>돼지고기 간장불고기 쌈장 친목도모 텃밭 소풍<br>
+                            아이들 어렸을적 만나던 엄마들과 재은네 텃밭으로 소풍<br>
+                            각자 해올수 있는것 한가지씩 준비해들고 만나기로했어요.<br>
+                        </p>
+                        <img src="돼지고기간장불고기_01.jpg" width=70%>
+                        <br>
+                        <p>
+                            미소로는 텃밭과 집이 가까워 돼지고기 간장불고기와 쌈장, 
+                            콩을 넣은 밥을 지어가기로했습니다.<br>
+                            상추에 고기를 싸먹어야하니 쌈장을 먼저 만들었어요.<br>
+                            고추장5TS에 된장2TS를 섞어주고요.
+                        </p>
+                        <img src="돼지고기간장불고기_02.jpg" width=35%>
+                        <img src="돼지고기간장불고기_03.jpg" width=35%>
+                        <br>
+                        <p>
+                            알싸한 매운맛이 좋은 청, 홍고추를 송송송 썰어넣고 통깨 넉넉히, 다진마늘1TS, 참기름1TS, 맛술2TS넣어 잘 섞어주면 맛있는 쌈장 완성
+                        </p>
+                        <br>
+                        <p>>>더보기...</p>
+                    </div>
+                </article>
+            </section>
+            <aside id="main-aside">
+                <div class="aside-list">
+                    <h3>recent commend</h3>
+                    <ul>
+                        <li><a href="#">보양식 닭날개 간...</a></li>
+                        <li><a href="#">#주간일기 챌린...</a></li>
+                        <li><a href="#">초당옥수수요리 ....</a></li>
+                        <li><a href="#">감자고로케 만들....</a></li>
+                        <li><a href="#">겉바속촉 웨지 감...</a></li>
+                    </ul>
+                </div>
+                <div class="aside-list">
+                    <h3>neighbor</h3>
+                    <ul>
+                        <li><a href="#">(사)정부조..</a></li>
+                        <li><a href="#">(주)서현운..</a></li>
+                        <li><a href="#">(주)어시스..</a></li>
+                        <li><a href="#">(주)지안에..</a></li>
+                        <li><a href="#">(주)청명부..</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        <footer id="main-footer">
+            <h4>
+                <a href="https://www.naver.com">powered by <span class="naver">Naver</span> blog</a>
+            </h4>
+            <h5 class="refer">출처: <a href="https://blog.naver.com/yoritime" class="reflink">yoritime</a></h5>
+        </footer>
+    </div>
+</body>
+</html>
+

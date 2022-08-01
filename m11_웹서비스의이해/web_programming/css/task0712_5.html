@@ -1,0 +1,42 @@
+<!--p169 비교하기 해보기 inline 과 inline-block-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline vs. Inline-Block</title>
+    <style>
+        #box1 {
+            display: inline;
+            width: 200px; height: 100px;
+            margin: 100px;
+            border: 3px solid red;
+        }
+        #box2 {
+            display: inline-block;
+            width: 200px; height: 100px;
+            margin:100px;
+            border: 3px solid blue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Something on</p>
+        <span>Something left</span>
+        <div id="box1">BOX1 : inline</div>
+        <span>Something right</span>
+        <p>Something under</p>
+    </div>
+    <hr>
+    <div>
+        <p>Something on</p>
+        <span>Something left</span>
+        <div id="box2">BOX2 : inline-block</div>
+        <span>Something right</span>
+        <p>Something under</p>
+    </div>
+
+</body>
+</html>

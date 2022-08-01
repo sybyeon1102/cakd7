@@ -1,0 +1,58 @@
+<!--유동속성, 그림자(글자, 박스, 중첩), 그레이디언트 속성 
+    사례를 작성하여 그 효과를 설명하세요.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Float_Shadow_Gradient</title>
+    <style>
+        .f_left {float: left;}
+        h1 {
+            text-align: center;
+            text-shadow: 10px 10px 5px plum;
+        }
+        .box {
+            box-shadow: 5px 5px 20px skyblue;
+            border: 1px dotted blueviolet;
+            padding: 20px;
+        }
+        .box2 {
+            box-shadow: 5px 5px 5px blue,
+            10px 10px 10px yellow,
+            10px 10px 20px red;
+            margin: 20px;
+            padding: 20px;
+        }
+        .grad {
+            /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffb76b+0,ffa73d+38,ff7c00+70,ff7f04+100 */
+            background: #ffb76b; /* Old browsers */
+            background: -moz-linear-gradient(top,  #ffb76b 0%, #ffa73d 38%, #ff7c00 70%, #ff7f04 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top,  #ffb76b 0%,#ffa73d 38%,#ff7c00 70%,#ff7f04 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom,  #ffb76b 0%,#ffa73d 38%,#ff7c00 70%,#ff7f04 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=0 ); /* IE6-9 */
+            border: 3px dashed blueviolet;
+            padding: 10px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box2">
+        <h1>HANBIT ACADEMY</h1>
+        <div class="box">
+            <img src="hanbit.jpg" class="f_left">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+        </div>
+    </div>
+    <hr>
+    <div class="grad">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>      
+    </div>
+
+
+</body>
+</html>

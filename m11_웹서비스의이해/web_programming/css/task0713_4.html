@@ -1,0 +1,33 @@
+<!--"요소의 중앙 배치" 글자가 가운데 오도록 코드 7-5 수정p232-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absolute Position</title>
+    <style>
+        * {margin: 0; padding: 0;}
+        body {background: red;}
+
+        #container {
+            width: 500px; height: 250px;
+            background: orange;
+
+            position: absolute;
+            left: 50%; top: 50%;
+            margin-left: -250px;
+            margin-top: -125px;
+        }
+        .middle {
+            text-align: center;
+            line-height: 250px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1 class="middle">요소의 중앙 배치</h1>
+    </div>
+</body>
+</html>

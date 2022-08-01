@@ -1,0 +1,29 @@
+<!--후손자손생성후 스타일 적용 구현 차이 확인 p138-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style for Descendant and Child</title>
+    <style>
+        #id1 h1, #id1 h2 {color: pink;}
+        #id2 h1, h2 {color: rgb(0, 224, 224);}
+    </style>
+</head>
+<body>
+    <div id="id1">
+        <h1>id1 - h1</h1>
+        <h2>id1 - h2</h2>
+    </div>
+    <div id="id2">
+        <h1>id2 - h1</h1>
+        <h2>id2 - h2</h2>
+    </div>
+    <div>
+        <h1>h1</h1>
+        <h2>h2</h2>
+    </div>
+    
+</body>
+</html>
