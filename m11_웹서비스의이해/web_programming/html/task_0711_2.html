@@ -1,0 +1,47 @@
+<!--table을 tr, th, td를 적절히 섞어서 만드세요.
+    (colspan, rawspan 포함)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th colspan="3">수업 파일 분류</th>
+            </tr>
+            <tr>
+                <th>라이브러리</th>
+                <th>파일명</th>
+                <th>파일크기</th>
+            </tr>
+        </thead>
+        <tr>
+            <th rowspan="6">Pandas</th>
+            <td>데이터형식</td>
+            <td>106KB</td>
+        </tr>
+        <tr><td>연산</td><td>70KB</td></tr>
+        <tr><td>전처리</td><td>59KB</td></tr>
+        <tr><td>날짜</td><td>95KB</td></tr>
+        <tr><td>입출력</td><td>48KB</td></tr>
+        <tr><td>응용</td><td>550KB</td></tr>
+        <tr>
+            <th rowspan="2">Numpy</th>
+            <td>기초</td>
+            <td>102KB</td>
+        </tr>
+        <tr><td>응용</td><td>36KB</td></tr>
+        <tr>
+            <th rowspan="1">Visualization</th>
+            <td>기초</td>
+            <td>1,175KB</td>
+        </tr>
+
+    </table>
+</body>
+</html>

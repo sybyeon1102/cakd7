@@ -1,0 +1,48 @@
+<!--입력양식태그를활용하여원하는입력샘플을작성하세요-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Form</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <form>
+        <label for="name">이름</label>
+        <input id="name" type="text"><br>
+        <label for="bday">생년월일</label>
+        <input id="bday" type="date" value="1995-12-15"><br>
+        <label for="male">남성</label>
+        <input id="male" type="radio" name="gender">
+        <label for="female">여성</label>
+        <input id="female" type="radio" name="gender"><br>
+        <label for="phone0">전화번호</label>
+        <input id="phone0" type="text" maxlength="3" style="width:50px">
+        <label for="phone1">-</label>
+        <input id="phone1" type="text" maxlength="4" style="width:50px">
+        <label for="phone2">-</label>
+        <input id="phone2" type="text" maxlength="4" style="width:50px"><br>
+        <label for="email_id">이메일 주소</label>
+        <input id="email_id" type="text">
+        <label for="email_id">@</label>
+        <select>
+            <option value="gmail">gmail.com</option>
+            <option value="naver">naver.com</option>
+            <option value="daum">daum.net</option>
+            <option value="yahoo">yahoo.com</option>
+        </select><br>
+        <input id="advertise" type="checkbox">
+        <label for="advertise">광고메일수신동의</label><br>
+
+
+    </form>
+    <hr>
+    <form>
+        <input type="reset" value="리셋">
+        <input type="submit" value="가입">
+    </form>
+    
+</body>
+</html>
